@@ -23,8 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "jsyelena@126.com"}
   - {title: Github, icon: github, url: "https://github.com/siyijiang41elena"}
   - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=R8ob17cAAAAJ&hl=zh-CN&oi=sra"}
-  - {title: Research Gate, icon: ReseachGate #3755, url: "https://www.researchgate.net/profile/Siyi-Jiang-5"}
-
+  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
