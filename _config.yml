@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Siyi Jiang"
+author: "Siyi Jiang"
+description: "Language & Cognition"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -9,20 +9,21 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
+show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: Home Change}
+  - {file: "README.md", title: About me}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "jsyelena@126.com"}
+  - {title: Github, icon: github, url: "https://github.com/SiyiJiang41elena"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=R8ob17cAAAAJ&hl=zh-CN&oi=sra"}
+  - {title: Research Gate, icon: ReseachGate #3755, url: "https://www.researchgate.net/profile/Siyi-Jiang-5"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
