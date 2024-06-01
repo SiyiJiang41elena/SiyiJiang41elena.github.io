@@ -17,11 +17,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
+  - {file: "index.html", title: "Home"}
   - {file: "/Research.md", title: "Research"}
   - {file: "/Teaching.md", title: "Teaching"}
-  - {file: "/中文简历.pdf", title: "Chinese CV", icon: home}
-  - {file: "/英文简历.pdf", title: "English CV", icon: home}
+  - {file: "/中文简历.pdf", title: "Chinese CV"}
+  - {file: "/英文简历.pdf", title: "English CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
