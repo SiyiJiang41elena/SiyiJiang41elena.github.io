@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publications"
+title: "Research"
 ---
 In my PhD research, I investigated the adaptability of bilingual language control using both behavioral and EEG experiments. Moving forward, I plan to expand my research in two key directions:<br> 
 1. Examining how the adaptive control system functions in ecologically valid, naturalistic settings.<br> 
@@ -8,6 +8,7 @@ In my PhD research, I investigated the adaptability of bilingual language contro
 
 By advancing knowledge in how people learn and use languages, I seek to contribute to the development of more effective language learning strategies and cognitive interventions. My ultimate goal is to translate my findings into practical strategies that enhance language education and improve human health. 
 
+# Publications
 ## Peer-Reviewed Articles († Corresponding author)
 *First-Author:*
 - **Jiang, S.**, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. *Journal of Memory and Language, 137*(19), 104527. [https://doi.org/10.1016/j.jml.2024.104527](https://doi.org/10.1016/j.jml.2024.104527)<br> 
