@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-![Siyi Jiang](pic240602.jp2 "Siyi Jiang")
+![Siyi Jiang](path/to/pic240602.jp2)
 
 ## About
 I'm a PhD candidate in the [Faculty of Psychology](https://psych.bnu.edu.cn) at [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University).<br> 
