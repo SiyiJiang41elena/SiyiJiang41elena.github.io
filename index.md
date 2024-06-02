@@ -12,3 +12,7 @@ Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language
 - Bilingual language control in emotional contexts
 - Bilingual language control in ecologically valid naturalistic settings
 - Interconnection between bilingual language control and cognitive control
+
+## Ongoing projects 
+- How does the bilingual language control system adapt to the textual contexts? (with Baoguo Chen)
+- How does the adaptive bilingual language control system function in emotional contexts? (with Baoguo Chen)
