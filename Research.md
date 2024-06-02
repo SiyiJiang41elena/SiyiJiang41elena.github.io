@@ -14,8 +14,7 @@ Language in the World, 5*, 1-15. (in Chinese)<br>
 from word segmentation task. *Journal of Chinese Language Education, 18*(2), 1-21. (in Chinese)<br> 
 
 *Other:*
-- Lu, Z., Lu, S.*, & Jiang, S. (2019). The typological effect of the processing of N de V. *Chinese Language Learning, 3*, 78-
-86. (in Chinese)
+- Lu, Z., Lu, S.*, & Jiang, S. (2019). The typological effect of the processing of N de V. *Chinese Language Learning, 3*,78-86. (in Chinese)
 
 ## Books
 VanPatten, B., Keating G. D., & Wulff, S. (Eds.). (2021). *Theories in Second Language Acquisition: An Introduction.* (Lu,
