@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md", title: "Research"}
   - {file: "Teaching.md", title: "Teaching"}
   - {file: "中文简历.pdf", title: "Chinese CV", url: "中文简历.pdf"}
-  - {file: "英文简历.pdf", title: "English CV"}
+  - {file: "英文简历.pdf", title: "English CV", url: "英文简历.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
