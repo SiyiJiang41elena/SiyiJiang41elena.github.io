@@ -8,4 +8,6 @@ I received my MA in Teaching Chinese to Speakers of Other Languages from [Peking
 
 ## Research interests
 Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language Acquisition
-- Bilingual language control system's adaptability
+- Adaptability of bilingual language control
+- Bilingual language control in emotional contexts
+- Interconnection between bilingual language control and cognitive control
