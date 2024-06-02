@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.rmd", title: "Home"}
   - {file: "Research.md", title: "Research"}
   - {file: "Teaching.md", title: "Teaching"}
-  - {file: "中文简历.pdf", title: "Chinese CV", url: "英文简历.pdf"}
+  - {file: "中文简历.pdf", title: "Chinese CV", url: "中文简历.pdf"}
   - {file: "英文简历.pdf", title: "English CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
