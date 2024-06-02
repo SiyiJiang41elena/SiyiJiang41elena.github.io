@@ -24,9 +24,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "英文简历.pdf", title: "English CV", url: "英文简历.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: "Mail", icon: envelope, url: "mailto:jsyelena@126.com"}
+  - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
   - {title: Github, icon: github, url: "https://github.com/siyijiang41elena"}
-  - {title: Github, icon: google-scholar, url: "https://github.com/siyijiang41elena"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://github.com/siyijiang41elena"}
  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
