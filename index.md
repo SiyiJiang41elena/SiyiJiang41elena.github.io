@@ -4,7 +4,27 @@ title: ""
 ---
 <img src="pic240602.png" alt="Siyi Jiang" style="height:250px;">
 			<!-- <p class="small">  -->
-   
+
+links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://grantmcdermott.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:gmcd@amazon.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/grant_mcdermott"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/grantmcdermott"
+    - label: "Scholar"
+      icon: "ai ai-google-scholar"
+      url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "http://orcid.org/0000-0001-7883-8573"
+      
 ## About
 I'm a PhD candidate in the [Faculty of Psychology](https://psych.bnu.edu.cn) at [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University).<br> 
 I received my MA in Teaching Chinese to Speakers of Other Languages from [Peking University](https://en.wikipedia.org/wiki/Peking_University) and had a BA in Teaching Chinese as Foreign Language & English Language and Literature from [Beijing Foreign Studies University](https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University).
