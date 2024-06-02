@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-<img src="pic240602.png" alt="Siyi Jiang" style="height:250px;">
+<img align="left" img src="pic240602.png" alt="Siyi Jiang" style="height:250px;">
 			<!-- <p class="small">  -->
    
 ## About
