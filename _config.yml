@@ -1,33 +1,23 @@
-title: Siyi Jiang（蒋思艺）
-author: Siyi Jiang
-email: jsyelena@126.com
-description: language & cognition
-url: https://SiyiJiang41elena.github.io
-baseurl: /
-markdown: kramdown
-permalink: /:year/:month/:title/
+title: "Siyi Jiang（蒋思艺）"
+author: "Siyi Jiang"
+description: "Language & Cognition"
+permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n" # 2 blank lines
+excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-paginate: 5
-paginate_path: /page/:num/
-analytics: false           # include analytics
-
-# Kramdown
-kramdown:
-  auto_ids: false          # don't auto generate ids from headings
 
 # Layout
-show_excerpts: true        # show article excerpts on the home page
+
+show_social: false           #show site description and social links in the footer
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true              # use a dark header - ONLY applies if show_frame: false
-show_related: true         # show the previous and next links after every post
 show_description: true     # show the site description in the sidebar
-show_title: true         # always keep the site title visible - NOT USED ANYWHERE IN CODE
 
 # Menu
-navigation:                # accepts {file, title, url, icon, sidebaricon}  - {file: "index.html", icon: home}
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "Research.md", title: "Research"}
   - {file: "Teaching.md", title: "Teaching"}
@@ -35,14 +25,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}  - {f
   - {file: "英文简历.pdf", title: "English CV", url: "英文简历.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:gavinjerman@github.com"}
-  - {title: Github, icon: github, url: "https://github.com/jermware/jermware.github.io"}
-#  - {title: Twitter, icon: twitter, url: "https://twitter.com/gavinjerman"}
-  - {title: Mastodon, icon: mastodon, url: "https://mstdn.social/@gavinjerman"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
+  - {title: Github, icon: github, url: "https://github.com/siyijiang41elena"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://github.com/siyijiang41elena"}
+ 
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
- - jekyll-paginate
- - jekyll-sitemap
- - jekyll-seo-tag
