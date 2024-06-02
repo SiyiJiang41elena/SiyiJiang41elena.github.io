@@ -4,6 +4,13 @@ title: ""
 ---
 <img src="pic240602.png" alt="Siyi Jiang" style="height:250px;">
 			<!-- <p class="small">  -->
+   <p></p>
+
+				<font face="Arial, sans-serif" size="2">
+					&#128214 <a href="https://scholar.google.co.uk/citations?user=eWKyKyAAAAAJ&hl=en&oi=ao"> <b> Google Scholar </b></a> <br>
+			&#9993 <a href = "mailto: yenansun@cuhk.edu.hk">yenansun@cuhk.edu.hk </a> <br>
+			&#127970 <a href = "https://goo.gl/maps/xW7Xy3tw4ydXpHC47">Fung King Hey Building</a> <br>
+			&#9743 (852) 3943 7079
    
 ## About
 I'm a PhD candidate in the [Faculty of Psychology](https://psych.bnu.edu.cn) at [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University).<br> 
