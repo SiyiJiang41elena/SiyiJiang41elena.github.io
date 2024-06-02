@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-**Teaching Assistant at the Peking University**<br>
+**Teaching Assistant at Peking University**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sep 2018 - Jan 2019**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced Chinese Writing (Instructor: Haiyan Li)<br>
 
