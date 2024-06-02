@@ -2,6 +2,11 @@
 layout: page
 title: "Publications"
 ---
+In my PhD research, I investigated the adaptability of bilingual language control using both behavioral and EEG experiments. Moving forward, I plan to expand my research in two key directions:<br> 
+1. Examining how the adaptive control system functions in ecologically valid, naturalistic settings.<br> 
+2. Exploring how bilingual and bidialectal experiences dynamically influence domain-general cognitive control.<br> 
+
+By advancing knowledge in how people learn and use languages, I seek to contribute to the development of more effective language learning strategies and cognitive interventions. My ultimate goal is to translate my findings into practical strategies that enhance language education and improve human health. 
 
 ## Peer-Reviewed Articles († Corresponding author)
 *First-Author:*
