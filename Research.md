@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: ""
 ---
 In my PhD research, I investigated the adaptability of bilingual language control using both behavioral and EEG experiments. Moving forward, I plan to expand my research in two key directions:<br> 
 1. Examining how the adaptive control system functions in ecologically valid, naturalistic settings.<br> 
