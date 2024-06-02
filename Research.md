@@ -9,8 +9,6 @@ In my PhD research, I investigated the adaptability of bilingual language contro
 By advancing knowledge in how people learn and use languages, I seek to contribute to the development of more effective language learning strategies and cognitive interventions. My ultimate goal is to translate my findings into practical strategies that enhance language education and improve human health. 
 
 # Publications
-[**Google Scholar**](https://scholar.google.com/citations?user=R8ob17cAAAAJ&hl=zh-CN&oi=sra)<br> 
-[**Research Gate**](https://www.researchgate.net/profile/Siyi-Jiang-5)
 ## Peer-Reviewed Articles († Corresponding author)
 *First-Author:*
 - **Jiang, S.**, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. *Journal of Memory and Language, 137*(19), 104527. [https://doi.org/10.1016/j.jml.2024.104527](https://doi.org/10.1016/j.jml.2024.104527)<br> 
@@ -26,3 +24,7 @@ Language in the World, 5*, 1-15. (in Chinese)<br>
 ## Books
 VanPatten, B., Keating G. D., & Wulff, S. (Eds.). (2021). *Theories in Second Language Acquisition: An Introduction.* (Lu,
 S., & **Jiang, S.**,Trans.). Beijing: China Commerce and Trade Press. (Original work published 2020).
+
+[**Google Scholar**](https://scholar.google.com/citations?user=R8ob17cAAAAJ&hl=zh-CN&oi=sra)<br> 
+
+[**Research Gate**](https://www.researchgate.net/profile/Siyi-Jiang-5)
