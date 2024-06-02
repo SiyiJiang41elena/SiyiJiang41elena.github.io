@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "About"
 ---
 
 I'm a PhD candidate in the [Faculty of Psychology](https://psych.bnu.edu.cn) at [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University). 
