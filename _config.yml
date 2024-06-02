@@ -25,25 +25,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "英文简历.pdf", title: "English CV", url: "英文简历.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://grantmcdermott.com"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:gmcd@amazon.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
-    - label: "Scholar"
-      icon: "ai ai-google-scholar"
-      url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "http://orcid.org/0000-0001-7883-8573"
-      
+  - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
+  - {title: Github, icon: github, url: "https://github.com/siyijiang41elena"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://github.com/siyijiang41elena"}
+ 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
