@@ -6,7 +6,7 @@ In my PhD research, I investigated the adaptability of bilingual language contro
 1. Examining how the adaptive control system functions in ecologically valid, naturalistic settings.<br> 
 2. Exploring how bilingual and bidialectal experiences dynamically influence domain-general cognitive control.<br> 
 
-<--By advancing knowledge in how people learn and use languages, I seek to contribute to the development of more efficient and effective language learning and using strategies, as well as language-based cognitive interventions, particularly for addressing cognitive aging.  
+By advancing knowledge in how people learn and use languages, I seek to contribute to the development of more efficient and effective language learning and using strategies, as well as language-based cognitive interventions, particularly for addressing cognitive aging.  
 
 # Publications
 ## Peer-Reviewed Articles († Corresponding author)
