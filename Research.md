@@ -16,8 +16,11 @@ By advancing knowledge in how people learn and use languages, I seek to contribu
 - **Jiang, S.**, Ma, L., & Chen, B.† (2023). Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension. *Bilingualism: Language and Cognition, 26*(1), 62–77. [https://doi.org/10.1017/S1366728922000323](https://doi.org/10.1017/S1366728922000323)<br> 
 - **Jiang, S.**, & Lu, S.† (2021). Applications of eye movement boundary paradigm to lexical processing research. *Chinese
 Language in the World, 5*, 1-15. (in Chinese)<br> 
-- **Jiang, S.**, Lu, S.†, & Wang, S. (2020). The processing of Chinese adhesive constructions in sentence reading: Evidence from word segmentation task. *Journal of Chinese Language Education, 18*(2), 1-21. (in Chinese)<br> 
+- **Jiang, S.**, Lu, S.†, & Wang, S. (2020). The processing of Chinese adhesive constructions in sentence reading: Evidence from word segmentation task. *Journal of Chinese Language Education, 18*(2), 1-21. (in Chinese)<br>
 
+*Corresponding-Author:*
+- Yang, S., **Jiang, S.**, Jiang, M., & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. *Frontiers in Human Neuroscience, 18*(June), 1-13.<br> 
+  
 *Other:*
 - Lu, Z., Lu, S.†, & **Jiang, S.** (2019). The typological effect of the processing of N de V. *Chinese Language Learning, 3*, 78-86. (in Chinese)
 
