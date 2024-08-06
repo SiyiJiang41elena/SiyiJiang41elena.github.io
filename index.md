@@ -4,7 +4,6 @@ sitemap:
   lastmod: 2024-08-06
   exclude: 'no'
 ---
-
 <br />
 <!-- Profile picture -->
 <img class="ProfilePic" img width="170" align="right" alt="Siyi Jiang" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="pic240602.png">
