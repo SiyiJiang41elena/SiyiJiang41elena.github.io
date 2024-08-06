@@ -4,7 +4,36 @@ title: ""
 ---
 <img src="pic240602.png" alt="Siyi Jiang" style="height:250px;">
 			<!-- <p class="small">  -->
-      
+
+title: "Mina Jevtović" # if using a built-in template, this title appears under your photo
+image: pic240602.png # great spot for your professional headshot :) 
+about: 
+  template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: linkedin # you'll need to the fontawesome extension to include icons: https://github.com/quarto-ext/fontawesome
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mina-jevtovi%C4%87-ph-d-8ab1695a/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/minajevtovic
+    - icon: github
+      text: GitHub
+      href: https://github.com/minajevtovic
+    - icon: envelope
+      text: Email
+      href: mailto:minamjevtovic@gmail.com
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCSK4rIJ9_6wa9cfH4NKjGLw
+    - icon: flower3
+      text: OSF
+      href: https://osf.io/7h9qv/
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=kVe9b7AAAAAJ&hl
+---
 ## About
 I obtained my PhD in Psychology from [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University).<br>Prior to that, I received my MA in Teaching Chinese to Speakers of Other Languages from [Peking University](https://en.wikipedia.org/wiki/Peking_University), and my BA in Teaching Chinese as Foreign Language & English Language and Literature from [Beijing Foreign Studies University](https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University).
    
