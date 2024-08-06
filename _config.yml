@@ -1,6 +1,6 @@
 title: "Siyi Jiang（蒋思艺）"
 author: "Siyi Jiang"
-description: "Contact: jsyelena@126.com"
+description: "Contact: jsyelena@126.com<br><br>Updated 8/2024"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -25,8 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "英文简历.pdf", title: "English CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
- # - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
- - "Updated 8/2024"
+  - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
