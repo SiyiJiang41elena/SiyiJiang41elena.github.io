@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "英文简历.pdf", title: "English CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
+  - {title: Mail, icon: envelope, text: email, url: "mailto:jsyelena@126.com"}
  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
