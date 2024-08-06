@@ -6,7 +6,7 @@ sitemap:
 ---
 <br />
 <!-- Profile picture -->
-<img class="ProfilePic" img width="170" align="right" alt="Siyi Jiang" style="float: right; margin-left: 70px; margin-up: 70px; border-radius: 50px; background-color: rgba(255, 255, 255, 0.5);" src="pic240602.png">
+<img class="ProfilePic" img width="170" align="right" alt="Siyi Jiang" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="pic240602.png">
 
 ## About
 I earned my PhD in Psychology from [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University), specializing in psycholinguistics. Before that, I completed my MA in Teaching Chinese to Speakers of Other Languages at [Peking University](https://en.wikipedia.org/wiki/Peking_University), focusing on the processing of constructions among L2 Chinese learners. I also hold a BA from [Beijing Foreign Studies University](https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University), where I double-majored in Teaching Chinese as Foreign Language and English Language and Literature.
@@ -25,3 +25,5 @@ Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language
 [Jiang, S., Ma, L., & Chen, B. (2023). Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension. *Bilingualism: Language and Cognition, 26*(1), 62–77.](https://doi.org/10.1017/S1366728922000323)<br>
 - How does the adaptive bilingual language control system operate in emotional contexts? (with Baoguo Chen)<br>
 [Jiang, S., Meng, Y., & Chen, B. (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. *Journal of Memory and Language, 137*(19), 104527.](https://doi.org/10.1016/j.jml.2024.104527)
+
+<a href="https://mapmyvisitors.com/web/1bvu3"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=kutvpm4t6Qxf4czmSsSz26dA5aYOrP3YLbkGJi-uHv8&cl=ffffff" /></a>
