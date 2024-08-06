@@ -36,7 +36,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: OSF, icon: flower3, url: "https://osf.io/8f5kp/"}
   #- {title: Github, icon: github, url: "https://github.com/SiyiJiang41elena"}
 
- comments:
+comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
