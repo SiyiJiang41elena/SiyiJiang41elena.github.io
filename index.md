@@ -2,29 +2,9 @@
 layout: page
 title: ""
 
-about: 
-  template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
-  image-shape: rounded
-  image-width: 15em
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/minajevtovic
-    - icon: github
-      text: GitHub
-      href: https://github.com/minajevtovic
-    - icon: envelope
-      text: Email
-      href: mailto:minamjevtovic@gmail.com
-    - icon: flower3
-      text: OSF
-      href: https://osf.io/7h9qv/
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=kVe9b7AAAAAJ&hl
----
 <img src="pic240602.png" alt="Siyi Jiang" style="height:250px;">
 			<!-- <p class="small">  -->
+---
 
 ## About
 I obtained my PhD in Psychology from [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University).<br>Prior to that, I received my MA in Teaching Chinese to Speakers of Other Languages from [Peking University](https://en.wikipedia.org/wiki/Peking_University), and my BA in Teaching Chinese as Foreign Language & English Language and Literature from [Beijing Foreign Studies University](https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University).
