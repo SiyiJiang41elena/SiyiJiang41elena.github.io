@@ -1,9 +1,22 @@
 ---
 layout: page
-title: ""
+sitemap:
+  lastmod: 2024-08-06
+  exclude: 'no'
 ---
-<img src="pic240602.png" alt="Siyi Jiang" style="height:250px;">
-			<!-- <p class="small">  -->
+<br />
+<!-- Profile picture -->
+<img class="ProfilePic" img width="170" align="right" alt="Siyi Jiang" style="float: right; margin-left: 28px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="pic240602.png">
+
+<u>Short Bio (last update: Janurary 2024)</u>
+
+Researcher in Food Toxicology and Human Health.
+<br> 
+F.R.S-FNRS mandate. Host institute University of Mons, Belgium.
+<br /> <br> 
+My research is centered on understanding the risks associated with natural toxins and emerging environmental contaminants in food. This is done by applying LC-MS/MS methods for detection of mycotoxins and cyanotoxins. Also, through the use of _in vitro_ models, I investigate the effects of these toxins as mixtures and their interactions with micro- and nanoplastics. 
+This interdisciplinary approach bridges food toxicology and human health, facilitating a comprehensive understanding of complex challenges.
+<br /> <br />
 
 ## About
 I obtained my PhD in Psychology from [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University).<br>Prior to that, I received my MA in Teaching Chinese to Speakers of Other Languages from [Peking University](https://en.wikipedia.org/wiki/Peking_University), and my BA in Teaching Chinese as Foreign Language & English Language and Literature from [Beijing Foreign Studies University](https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University).
