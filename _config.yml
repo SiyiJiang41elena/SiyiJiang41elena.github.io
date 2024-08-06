@@ -36,9 +36,26 @@ external:                  # shows a footer with social links - for available ic
   - {title: OSF, icon: flower3, url: "https://osf.io/8f5kp/"}
   #- {title: Github, icon: github, url: "https://github.com/SiyiJiang41elena"}
 
-comments:
+ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
+  - jemoji
+  - jekyll-archives
+  - jekyll-diagrams
+  - jekyll-email-protect
+  - jekyll-github-metadata
+  - jekyll-imagemagick
+  - jekyll-paginate-v2
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-target-blank
+  - jekyll-twitter-plugin
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-toc
+  - jekyll-redirect-from
+  - jekyll-remote-theme
