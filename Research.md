@@ -8,6 +8,8 @@ In my PhD research, I investigated the adaptability of bilingual language contro
 
 By advancing knowledge in how people learn and use languages, I seek to contribute to the development of more efficient and effective language learning and using strategies, as well as language-based cognitive interventions, particularly for addressing cognitive aging.  
 
+[**Google Scholar**](https://scholar.google.com/citations?user=R8ob17cAAAAJ&hl=zh-CN&oi=sra)[**Research Gate**](https://www.researchgate.net/profile/Siyi-Jiang-5)
+
 # Publications
 ## Peer-Reviewed Articles († Corresponding author)
 *First-Author:*
