@@ -13,7 +13,7 @@ I obtained my PhD in Psychology from [Beijing Normal University](https://en.wiki
 <br /> <br />
 
 ## Research interests
-Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language Acquisition
+Neurolinguistics, Psycholinguistics, Bilingualism and Cognition, Second Language Acquisition
 - Adaptability of bilingual language control
 - Bilingual language control in emotional contexts
 - Bilingual language control in ecologically valid naturalistic settings
