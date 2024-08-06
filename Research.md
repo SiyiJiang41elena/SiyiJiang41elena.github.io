@@ -8,7 +8,6 @@ In my PhD research, I investigated the adaptability of bilingual language contro
 
 By advancing knowledge in how people learn and use languages, I seek to contribute to the development of more efficient and effective language learning and using strategies, as well as language-based cognitive interventions, particularly for addressing cognitive aging.  
 
-# Publications
 ## Peer-Reviewed Articles († Corresponding author)
 *First-Author:*
 - **Jiang, S.**, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. *Journal of Memory and Language, 137*(19), 104527. [https://doi.org/10.1016/j.jml.2024.104527](https://doi.org/10.1016/j.jml.2024.104527)<br> 
