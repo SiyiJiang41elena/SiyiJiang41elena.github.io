@@ -20,9 +20,9 @@ Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language
 - Interconnection between bilingual language control and cognitive control
 
 ## Ongoing projects 
-1. How does the bilingual language control system adapt to the textual contexts? (with Baoguo Chen)
+How does the bilingual language control system adapt to the textual contexts? (with Baoguo Chen)
 - Jiang, S., Ma, L., & Chen, B. (2024). The role of cognitive control in bilingual language comprehension: An event-related potential study of dense code-switching sentences. *Bilingualism: Language and Cognition, 27*(1), 137–153. [Link](https://doi.org/10.1017/S1366728923000494)
 - Jiang, S., Ma, L., & Chen, B. (2023). Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension. *Bilingualism: Language and Cognition, 26*(1), 62–77. [Link](https://doi.org/10.1017/S1366728922000323)
 
-2. How does the adaptive bilingual language control system operate in emotional contexts? (with Baoguo Chen)
+How does the adaptive bilingual language control system operate in emotional contexts? (with Baoguo Chen)
 - Jiang, S., Meng, Y., & Chen, B. (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. *Journal of Memory and Language, 137*(19), 104527. [Link](https://doi.org/10.1016/j.jml.2024.104527)
