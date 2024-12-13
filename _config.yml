@@ -35,6 +35,11 @@ external:                  # shows a footer with social links - for available ic
   #- {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0001-7205-4815"}
   #- {title: Github, icon: github, url: "https://github.com/SiyiJiang41elena"}
 
+<footer style="position: fixed; bottom: 0; width: 100%; text-align: center; padding: 10px; background-color: #f1f1f1; color: black; font-size: 14px;">
+  <p>© 2024 Siyi Jiang. All rights reserved.</p>
+  <p>Contact: <a href="mailto:jsyelena@126.com" style="color: black;">jsyelena@126.com</a></p>
+</footer>
+
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
