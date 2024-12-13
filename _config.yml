@@ -28,13 +28,15 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "英文简历.pdf", title: "English CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  text: "© 2024 Siyi Jiang. All rights reserved."
   # - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
   #- {title: Twitter, icon: twitter, url: "https://x.com/JiangSiyi1"}
   #- {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Siyi-Jiang-5"}
   #- {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=R8ob17cAAAAJ&hl=zh-CN&oi=sra"}
   #- {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0001-7205-4815"}
   #- {title: Github, icon: github, url: "https://github.com/SiyiJiang41elena"}
+
+footer:
+  - text: "© 2024 Siyi Jiang. All rights reserved."
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
