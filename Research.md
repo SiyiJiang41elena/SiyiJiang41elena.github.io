@@ -25,7 +25,7 @@ output: html_document
     color: #333; /* Dark text color */
     cursor: pointer;
     transition: all 0.3s ease; /* Smooth transition for all states */
-    text-transform: uppercase; /* Uppercase text for a clean look */
+    text-transform: capitalize; /* Capitalize only the first letter */
     font-weight: 500; /* Medium font weight */
   }
 
@@ -43,8 +43,8 @@ output: html_document
 
   /* Active tab button (selected state) */
   .tab-button.active {
-    background-color: #ffffff; /* White background for active tab */
-    color: black; /* Black text for the active tab */
+    background-color: black; /* Black background for active tab */
+    color: white; /* White text for the active tab */
     border-color: black; /* Black border for active tab */
     border-width: 2px; /* Slightly thicker border to highlight active tab */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for active tab */
@@ -70,7 +70,7 @@ output: html_document
 ## Research
 
 <div class="tabs">
-  <button class="tab-button active" onclick="showTab('articles')">Peer-Reviewed Articles</button>
+  <button class="tab-button active" onclick="showTab('articles')">Peer-reviewed articles</button>
   <button class="tab-button" onclick="showTab('books')">Books</button>
   <button class="tab-button" onclick="showTab('conferences')">Conferences</button>
   <button class="tab-button" onclick="showTab('projects')">Projects</button>
