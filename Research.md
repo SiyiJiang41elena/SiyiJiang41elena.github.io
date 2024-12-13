@@ -8,45 +8,45 @@ output: html_document
   .tabs {
     margin-bottom: 20px;
     display: flex; /* Use flex layout to align the buttons */
-    border: 2px solid #ccc; /* Add border around the entire tabs container */
-    border-radius: 10px; /* Rounded corners for the container */
+    border-radius: 10px; /* Rounded corners for the entire container */
     height: 50px; /* Set the height of the container */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for the container */
+    overflow: hidden; /* Hide overflow to keep the design neat */
   }
 
   /* Styling for the tab buttons */
   .tab-button {
-    font-size: 16px; /* Slightly smaller font size for a more modern look */
+    font-size: 16px; /* Slightly smaller font size for a modern look */
     flex-grow: 1; /* Make the buttons take up equal space */
     text-align: center; /* Center the text in the button */
-    padding: 12px 0; /* Adjust padding to lower the button height */
-    background: linear-gradient(135deg, #6c7ae0, #4f5dfd); /* Gradient background */
-    border: none; /* Remove default border */
-    border-radius: 10px; /* Rounded corners for the buttons */
+    padding: 12px 0; /* Adjust padding for the right height */
+    background-color: #ffffff; /* White background */
+    border: 1px solid #ddd; /* Subtle border */
+    border-right: none; /* Remove right border */
+    color: #333; /* Dark text color */
     cursor: pointer;
-    color: white; /* White text */
     transition: all 0.3s ease; /* Smooth transition for all states */
     text-transform: uppercase; /* Uppercase text for a clean look */
-    font-weight: bold; /* Bold text */
+    font-weight: 500; /* Medium font weight */
   }
 
-  /* Active tab button (selected state) */
-  .tab-button.active {
-    background: linear-gradient(135deg, #4f5dfd, #6c7ae0); /* Inverted gradient for active state */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Shadow effect for active button */
-    transform: translateY(-3px); /* Slightly lift the button */
+  /* Remove the right border for the last button */
+  .tab-button:last-child {
+    border-right: none;
   }
 
   /* Hover effect for the buttons */
   .tab-button:hover {
-    background: linear-gradient(135deg, #5f6fd2, #4355f5); /* Lighter gradient on hover */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Hover shadow effect */
-    transform: translateY(-2px); /* Slight lift on hover */
+    background-color: #f4f4f4; /* Light grey background on hover */
+    border-color: #bbb; /* Slightly darker border on hover */
+    color: #000; /* Dark text color on hover */
   }
 
-  /* Remove border for the last button */
-  .tab-button:last-child {
-    border-right: none;
+  /* Active tab button (selected state) */
+  .tab-button.active {
+    background-color: #0066cc; /* Blue background for active tab */
+    color: white; /* White text for the active tab */
+    border-color: #005bb5; /* Darker border color for active tab */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for active tab */
   }
 
   /* Content area styling */
