@@ -6,7 +6,11 @@ sitemap:
 ---
 <br />
 <!-- Profile picture -->
-<img class="ProfilePic" img width="200" align="left" alt="Siyi Jiang" style="float: left; margin-left: 20px; margin-up: 30px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" src="IMG_4681.jpg">
+<img class="ProfilePic" 
+     width="200" 
+     alt="Siyi Jiang" 
+     style="float: left; margin-left: 40px; margin-top: 30px; margin-right: 20px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);" 
+     src="IMG_4681.jpg">
 
 ## About
 I earned my PhD in Psychology (2024) from [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University), specializing in psycholinguistics. Before that, I completed my MA in Teaching Chinese to Speakers of Other Languages (2020) at [Peking University](https://en.wikipedia.org/wiki/Peking_University), focusing on the processing of constructions among L2 Chinese learners. I also hold a BA from [Beijing Foreign Studies University](https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University) (2016), where I double-majored in Teaching Chinese as Foreign Language and English Language and Literature.
