@@ -67,8 +67,6 @@ output: html_document
   }
 </style>
 
-## Research
-
 <div class="tabs">
   <button class="tab-button active" onclick="showTab('articles')">Articles</button>
   <button class="tab-button" onclick="showTab('books')">Books</button>
