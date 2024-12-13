@@ -33,10 +33,7 @@ external:                  # shows a footer with social links - for available ic
   #- {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Siyi-Jiang-5"}
   #- {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=R8ob17cAAAAJ&hl=zh-CN&oi=sra"}
   #- {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0001-7205-4815"}
-  #- {title: Github, icon: github, url: "https://github.com/SiyiJiang41elena"}
-
-footer:
-  - text: "© 2024 Siyi Jiang. All rights reserved."
+  - {title: Github, icon: github, url: "https://github.com/SiyiJiang41elena"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
