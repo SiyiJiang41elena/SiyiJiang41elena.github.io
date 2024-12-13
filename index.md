@@ -13,6 +13,8 @@ I earned my PhD in Psychology (2024) from [Beijing Normal University](https://en
 <br /> <br />
 
 ## Research interests
-Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language Acquisition
+Broad: Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language Acquisition
+Narrow:
+bilingual language control
 - Bilingual language control in emotional and social contexts (Jiang et al., [2024](https://doi.org/10.1016/j.jml.2024.104527))
 - Interconnection between bilingual language control and cognitive control (Jiang et al., [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494))
