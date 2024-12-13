@@ -14,7 +14,7 @@ sitemap:
 
 ## About
 I earned my PhD in Psychology (2024) from [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University), specializing in psycholinguistics. Before that, I completed my MA in Teaching Chinese to Speakers of Other Languages (2020) at [Peking University](https://en.wikipedia.org/wiki/Peking_University), focusing on the processing of constructions among L2 Chinese learners. I also hold a BA from [Beijing Foreign Studies University](https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University) (2016), where I double-majored in Teaching Chinese as Foreign Language and English Language and Literature.
-<br /> <br />
+<br /> 
 
 ## Research interests
 **Broad:** Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language Acquisition<br /><br /> 
