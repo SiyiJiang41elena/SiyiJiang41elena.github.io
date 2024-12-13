@@ -3,6 +3,47 @@ title: "Research Page"
 output: html_document
 ---
 
+<style>
+  /* Styling for the tabs */
+  .tabs {
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the tab buttons */
+  .tab-button {
+    font-size: 18px; /* Increase the font size */
+    padding: 10px 20px; /* Add some padding to make the button bigger */
+    background-color: #f0f0f0; /* Light grey background */
+    border: 2px solid #ccc; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+    margin-right: 10px; /* Space between the buttons */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+  }
+
+  /* Active tab button (selected state) */
+  .tab-button.active {
+    background-color: #007BFF; /* Blue background for the active tab */
+    color: white; /* White text on active tab */
+    border-color: #0056b3; /* Darker blue border when active */
+  }
+
+  /* Hover effect for the buttons */
+  .tab-button:hover {
+    background-color: #e0e0e0; /* Light grey when hovered */
+  }
+
+  /* Content area styling */
+  .tab-content {
+    display: none;
+  }
+
+  /* Show the active tab content */
+  .tab-content.active {
+    display: block;
+  }
+</style>
+
 ## Research
 
 <div class="tabs">
