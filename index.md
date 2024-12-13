@@ -17,7 +17,7 @@ I earned my PhD in Psychology (2024) from [Beijing Normal University](https://en
 <br /><br /> 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
-<div style="display: flex; justify-content: flex-start; gap: 20px; align-items: center; flex-wrap: wrap; margin-left: 20px;">
+<div style="display: flex; justify-content: flex-start; gap: 20px; align-items: center; flex-wrap: wrap; margin-left: 5px;">
   <a href="mailto:jsyelena@126.com" title="Mail" style="color: black;">
     <i class="fas fa-envelope" style="font-size: 20px;"></i>
   </a>
