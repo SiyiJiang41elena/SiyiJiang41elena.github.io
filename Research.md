@@ -1,5 +1,5 @@
 ---
-title: "Research Page"
+title: ""
 output: html_document
 ---
 
@@ -70,15 +70,15 @@ output: html_document
 ## Research
 
 <div class="tabs">
-  <button class="tab-button active" onclick="showTab('articles')">Peer-reviewed articles</button>
+  <button class="tab-button active" onclick="showTab('articles')">Articles</button>
   <button class="tab-button" onclick="showTab('books')">Books</button>
   <button class="tab-button" onclick="showTab('conferences')">Conferences</button>
   <button class="tab-button" onclick="showTab('projects')">Projects</button>
 </div>
 
-<!-- Peer-Reviewed Articles Section -->
+<!-- Articles Section -->
 <div id="articles" class="tab-content active">
-  <h3>Peer-Reviewed Articles († Corresponding author)</h3>
+  <h3>† Corresponding author</h3>
   <p><strong>First-Author:</strong></p>
   <ul>
     <li><strong>Jiang, S.</strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527">https://doi.org/10.1016/j.jml.2024.104527</a></li>
@@ -95,26 +95,23 @@ output: html_document
 
   <p><strong>Other:</strong></p>
   <ul>
-    <li>Lu, Z., Lu, S.†, & <strong>Jiang, S.</strong> (2019). The typological effect of the processing of N de V. <i>Chinese Language Learning, 3</i>, 78-86. (in Chinese)</li><span style="font-size: smaller;">《”n的v“结构认知加工的类型学效应研究》</span></li>
+    <li>Lu, Z., Lu, S.†, & <strong>Jiang, S.</strong> (2019). The typological effect of the processing of N de V. <i>Chinese Language Learning, 3</i>, 78-86. (in Chinese)<span style="font-size: smaller;">《”n的v“结构认知加工的类型学效应研究》</span></li>
   </ul>
 </div>
 
 <!-- Books Section -->
 <div id="books" class="tab-content">
-  <h3>Books</h3>
   
   <p>VanPatten, B., Keating G. D., & Wulff, S. (Eds.). (2021). <i>Theories in Second Language Acquisition: An Introduction.</i> (Lu, S., & <strong>Jiang, S.</strong>, Trans.). Beijing: China Commerce and Trade Press. (Original work published 2020).</p>
 </div>
 
 <!-- Conferences Section -->
 <div id="conferences" class="tab-content">
-  <h3>Conferences</h3>
   <p class="placeholder-content">Coming soon.</p>
 </div>
 
 <!-- Projects Section -->
 <div id="projects" class="tab-content">
-  <h3>Projects</h3>
   <p class="placeholder-content">Coming soon.</p>
 </div>
 
