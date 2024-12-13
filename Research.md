@@ -4,10 +4,12 @@ output: html_document
 ---
 
 <style>
-  /* Styling for the tabs */
+  /* Styling for the tabs container */
   .tabs {
     margin-bottom: 20px;
-    display: flex; /* Display tabs inline */
+    display: flex; /* Use flex layout to align the buttons */
+    border: 2px solid #ccc; /* Add border around the entire tabs container */
+    border-radius: 5px; /* Optional rounded corners */
   }
 
   /* Styling for the tab buttons */
@@ -15,12 +17,15 @@ output: html_document
     font-size: 18px; /* Increase the font size */
     padding: 10px 20px; /* Add some padding to make the button bigger */
     background-color: #f0f0f0; /* Light grey background */
-    border: 2px solid #ccc; /* Border color */
-    border-radius: 5px; /* Rounded corners */
+    border-right: 1px solid #ccc; /* Border between the buttons */
     cursor: pointer;
     transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
     color: black; /* Default text color for unselected tab */
-    margin-right: 0; /* Remove space between buttons */
+  }
+
+  /* Remove border for the last button */
+  .tab-button:last-child {
+    border-right: none;
   }
 
   /* Active tab button (selected state) */
