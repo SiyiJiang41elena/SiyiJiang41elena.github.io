@@ -3,83 +3,50 @@ title: "Research Page"
 output: html_document
 ---
 
-<style>
-  /* Styling for the tabs */
-  .tabs {
-    margin-bottom: 20px;
-  }
-  
-  /* Styling for the tab buttons */
-  .tab-button {
-    font-size: 18px; /* Increase the font size */
-    padding: 10px 20px; /* Add some padding to make the button bigger */
-    background-color: #f0f0f0; /* Light grey background */
-    border: 2px solid #ccc; /* Border color */
-    border-radius: 5px; /* Rounded corners */
-    cursor: pointer;
-    margin-right: 10px; /* Space between the buttons */
-    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
-  }
-
-  /* Active tab button (selected state) */
-  .tab-button.active {
-    background-color: #007BFF; /* Blue background for the active tab */
-    color: white; /* White text on active tab */
-    border-color: #0056b3; /* Darker blue border when active */
-  }
-
-  /* Hover effect for the buttons */
-  .tab-button:hover {
-    background-color: #e0e0e0; /* Light grey when hovered */
-  }
-
-  /* Content area styling */
-  .tab-content {
-    display: none;
-  }
-
-  /* Show the active tab content */
-  .tab-content.active {
-    display: block;
-  }
-</style>
-
 ## Research
 
 <div class="tabs">
   <button class="tab-button active" onclick="showTab('articles')">Peer-Reviewed Articles</button>
   <button class="tab-button" onclick="showTab('books')">Books</button>
+  <button class="tab-button" onclick="showTab('conferences')">Conferences</button>
+  <button class="tab-button" onclick="showTab('projects')">Projects</button>
 </div>
 
 <!-- Peer-Reviewed Articles Section -->
 <div id="articles" class="tab-content active">
-  <h3>Peer-Reviewed Articles († Corresponding author)</h3>
+  ## Peer-Reviewed Articles († Corresponding author)
   
-  <p><strong>First-Author:</strong></p>
-  <ul>
-    <li><strong>Jiang, S.</strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527">https://doi.org/10.1016/j.jml.2024.104527</a></li>
-    <li><strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2024). The role of cognitive control in bilingual language comprehension: An event-related potential study of dense code-switching sentences. <i>Bilingualism: Language and Cognition, 27</i>(1), 137–153. <a href="https://doi.org/10.1017/S1366728923000494">https://doi.org/10.1017/S1366728923000494</a></li>
-    <li><strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2023). Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension. <i>Bilingualism: Language and Cognition, 26</i>(1), 62–77. <a href="https://doi.org/10.1017/S1366728922000323">https://doi.org/10.1017/S1366728922000323</a></li>
-    <li><strong>Jiang, S.</strong>, & Lu, S.† (2021). Applications of eye movement boundary paradigm to lexical processing research. <i>Chinese Language in the World, 5</i>, 1-15. (in Chinese)</li>
-    <li><strong>Jiang, S.</strong>, Lu, S.†, & Wang, S. (2020). The processing of Chinese adhesive constructions in sentence reading: Evidence from word segmentation task. <i>Journal of Chinese Language Education, 18</i>(2), 1-21. (in Chinese)</li>
-  </ul>
+  *First-Author:*
+  - **Jiang, S.**, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. *Journal of Memory and Language, 137*(19), 104527. [https://doi.org/10.1016/j.jml.2024.104527](https://doi.org/10.1016/j.jml.2024.104527)<br> 
+  - **Jiang, S.**, Ma, L., & Chen, B.† (2024). The role of cognitive control in bilingual language comprehension: An event-related potential study of dense code-switching sentences. *Bilingualism: Language and Cognition, 27*(1), 137–153. [https://doi.org/10.1017/S1366728923000494](https://doi.org/10.1017/S1366728923000494)<br> 
+  - **Jiang, S.**, Ma, L., & Chen, B.† (2023). Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension. *Bilingualism: Language and Cognition, 26*(1), 62–77. [https://doi.org/10.1017/S1366728922000323](https://doi.org/10.1017/S1366728922000323)<br> 
+  - **Jiang, S.**, & Lu, S.† (2021). Applications of eye movement boundary paradigm to lexical processing research. *Chinese Language in the World, 5*, 1-15. (in Chinese)<br> 
+  - **Jiang, S.**, Lu, S.†, & Wang, S. (2020). The processing of Chinese adhesive constructions in sentence reading: Evidence from word segmentation task. *Journal of Chinese Language Education, 18*(2), 1-21. (in Chinese)<br>
 
-  <p><strong>Corresponding-Author:</strong></p>
-  <ul>
-    <li>Yang, S., <strong>Jiang, S.</strong>†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. <i>Frontiers in Human Neuroscience, 18</i>(June), 1-13. <a href="https://doi.org/10.3389/fnhum.2024.1270377">https://doi.org/10.3389/fnhum.2024.1270377</a></li>
-  </ul>
+  *Corresponding-Author:*
+  - Yang, S., **Jiang, S.**†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. *Frontiers in Human Neuroscience, 18*(June), 1-13. [https://doi.org/10.3389/fnhum.2024.1270377](https://doi.org/10.3389/fnhum.2024.1270377)<br> 
 
-  <p><strong>Other:</strong></p>
-  <ul>
-    <li>Lu, Z., Lu, S.†, & <strong>Jiang, S.</strong> (2019). The typological effect of the processing of N de V. <i>Chinese Language Learning, 3</i>, 78-86. (in Chinese)</li>
-  </ul>
+  *Other:*
+  - Lu, Z., Lu, S.†, & **Jiang, S.** (2019). The typological effect of the processing of N de V. *Chinese Language Learning, 3*, 78-86. (in Chinese)
 </div>
 
 <!-- Books Section -->
 <div id="books" class="tab-content">
-  <h3>Books</h3>
+  ## Books
   
-  <p>VanPatten, B., Keating G. D., & Wulff, S. (Eds.). (2021). <i>Theories in Second Language Acquisition: An Introduction.</i> (Lu, S., & <strong>Jiang, S.</strong>, Trans.). Beijing: China Commerce and Trade Press. (Original work published 2020).</p>
+  VanPatten, B., Keating G. D., & Wulff, S. (Eds.). (2021). *Theories in Second Language Acquisition: An Introduction.* (Lu, S., & **Jiang, S.**, Trans.). Beijing: China Commerce and Trade Press. (Original work published 2020).
+</div>
+
+<!-- Conferences Section -->
+<div id="conferences" class="tab-content">
+  ## Conferences
+  Coming soon.
+</div>
+
+<!-- Projects Section -->
+<div id="projects" class="tab-content">
+  ## Projects
+  Coming soon.
 </div>
 
 <script>
