@@ -7,6 +7,7 @@ output: html_document
   /* Styling for the tabs */
   .tabs {
     margin-bottom: 20px;
+    display: flex; /* Display tabs inline */
   }
 
   /* Styling for the tab buttons */
@@ -17,9 +18,9 @@ output: html_document
     border: 2px solid #ccc; /* Border color */
     border-radius: 5px; /* Rounded corners */
     cursor: pointer;
-    margin-right: 10px; /* Space between the buttons */
     transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
     color: black; /* Default text color for unselected tab */
+    margin-right: 0; /* Remove space between buttons */
   }
 
   /* Active tab button (selected state) */
@@ -94,13 +95,13 @@ output: html_document
 <!-- Conferences Section -->
 <div id="conferences" class="tab-content">
   <h3>Conferences</h3>
-  <p class="placeholder-content">Content to be uploaded soon.</p>
+  <p class="placeholder-content">Coming soon.</p>
 </div>
 
 <!-- Projects Section -->
 <div id="projects" class="tab-content">
   <h3>Projects</h3>
-  <p class="placeholder-content">Content to be uploaded soon.</p>
+  <p class="placeholder-content">Coming soon.</p>
 </div>
 
 <script>
