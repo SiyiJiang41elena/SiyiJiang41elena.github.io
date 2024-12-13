@@ -43,9 +43,10 @@ output: html_document
 
   /* Active tab button (selected state) */
   .tab-button.active {
-    background-color: #0066cc; /* Blue background for active tab */
-    color: white; /* White text for the active tab */
-    border-color: #005bb5; /* Darker border color for active tab */
+    background-color: #ffffff; /* White background for active tab */
+    color: black; /* Black text for the active tab */
+    border-color: black; /* Black border for active tab */
+    border-width: 2px; /* Slightly thicker border to highlight active tab */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for active tab */
   }
 
@@ -78,7 +79,6 @@ output: html_document
 <!-- Peer-Reviewed Articles Section -->
 <div id="articles" class="tab-content active">
   <h3>Peer-Reviewed Articles († Corresponding author)</h3>
-  
   <p><strong>First-Author:</strong></p>
   <ul>
     <li><strong>Jiang, S.</strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527">https://doi.org/10.1016/j.jml.2024.104527</a></li>
