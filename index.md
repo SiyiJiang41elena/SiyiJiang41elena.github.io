@@ -13,8 +13,14 @@ I earned my PhD in Psychology (2024) from [Beijing Normal University](https://en
 <br /> <br />
 
 ## Research interests
-Broad: Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language Acquisition
+Broad: Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language Acquisition<br /> <br />
 Narrow:
-bilingual language control
+bilingual language control<br /> <br />
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
+  - {title: Twitter, icon: twitter, url: "https://x.com/JiangSiyi1"}
+  - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Siyi-Jiang-5"}
+  - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=R8ob17cAAAAJ&hl=zh-CN&oi=sra"}
+  - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0001-7205-4815"}
 - Bilingual language control in emotional and social contexts (Jiang et al., [2024](https://doi.org/10.1016/j.jml.2024.104527))
 - Interconnection between bilingual language control and cognitive control (Jiang et al., [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494))
