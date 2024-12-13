@@ -1,6 +1,5 @@
 ---
-title: "Research Page"
-output: html_document
+title: ""
 ---
 
 
