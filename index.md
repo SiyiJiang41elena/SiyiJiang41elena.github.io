@@ -13,7 +13,8 @@ I earned my PhD in Psychology (2024) from [Beijing Normal University](https://en
 <br /> <br />
 
 ## Research interests
-# Broad: Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language Acquisition<br /> 
+### Broad: <br />
+Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Second Language Acquisition<br /> 
 Narrow: Bilingual Language Control<br />
 A bilingual’s two languages may always be active, even when only one is required. This process might be expected to produce frequent language errors, but unintended cross-language intrusions are rare in spontaneous speech and the laboratory. Bilinguals must, therefore, benefit from a control mechanism that allows them to select which language to use at a given moment and in a given context. This language control mechanism is my main research focus.<br />
 - Bilingual language control in emotional and social contexts (Jiang et al., [2024](https://doi.org/10.1016/j.jml.2024.104527))
