@@ -23,3 +23,23 @@ A bilingual’s two languages may always be active, even when only one is requir
 My ongoing work focuses on two topics:<br />
 (1) Bilingual language control in emotional and social contexts (Jiang et al., [2024](https://doi.org/10.1016/j.jml.2024.104527))<br />
 (2) Interconnection between bilingual language control and cognitive control (Jiang et al., [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494))
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <a href="mailto:jsyelena@126.com" title="Mail">
+    <i class="fas fa-envelope" style="font-size: 30px;"></i>
+  </a>
+  <a href="https://x.com/JiangSiyi1" title="Twitter">
+    <i class="fab fa-twitter" style="font-size: 30px;"></i>
+  </a>
+  <a href="https://www.researchgate.net/profile/Siyi-Jiang-5" title="Researchgate">
+    <i class="fab fa-researchgate" style="font-size: 30px;"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=R8ob17cAAAAJ&hl=zh-CN&oi=sra" title="Google Scholar">
+    <i class="fas fa-user-graduate" style="font-size: 30px;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0001-7205-4815" title="Orcid">
+    <i class="fab fa-orcid" style="font-size: 30px;"></i>
+  </a>
+</div>
+
