@@ -9,16 +9,16 @@ output: html_document
     margin-bottom: 20px;
     display: flex; /* Use flex layout to align the buttons */
     border-radius: 10px; /* Rounded corners for the entire container */
-    height: 50px; /* Set the height of the container */
+    height: 40px; /* Lower the height of the container */
     overflow: hidden; /* Hide overflow to keep the design neat */
   }
 
   /* Styling for the tab buttons */
   .tab-button {
-    font-size: 16px; /* Slightly smaller font size for a modern look */
+    font-size: 14px; /* Smaller font size */
     flex-grow: 1; /* Make the buttons take up equal space */
     text-align: center; /* Center the text in the button */
-    padding: 12px 0; /* Adjust padding for the right height */
+    padding: 8px 0; /* Reduce padding to make the buttons shorter */
     background-color: #ffffff; /* White background */
     border: 1px solid #ddd; /* Subtle border */
     border-right: none; /* Remove right border */
