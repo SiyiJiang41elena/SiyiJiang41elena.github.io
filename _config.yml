@@ -28,11 +28,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "英文简历.pdf", title: "English CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  <footer style="position: fixed; bottom: 0; width: 100%; text-align: center; padding: 10px; background-color: #f1f1f1; color: black; font-size: 14px;">
-  <p>© 2024 Siyi Jiang. All rights reserved.</p>
-  <p>Contact: <a href="mailto:jsyelena@126.com" style="color: black;">jsyelena@126.com</a></p>
-</footer>
-
   - {title: Mail, icon: envelope, url: "mailto:jsyelena@126.com"}
   #- {title: Twitter, icon: twitter, url: "https://x.com/JiangSiyi1"}
   #- {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Siyi-Jiang-5"}
