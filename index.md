@@ -25,7 +25,7 @@ My ongoing work focuses on two topics:<br />
 (2) Interconnection between bilingual language control and cognitive control (Jiang et al., [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494))
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: flex-start; gap: 20px; align-items: center; flex-wrap: wrap;">
   <a href="mailto:jsyelena@126.com" title="Mail">
     <i class="fas fa-envelope" style="font-size: 30px;"></i>
   </a>
