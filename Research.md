@@ -1,5 +1,5 @@
 ---
-title: "Research Page"
+title: ""
 output: html_document
 ---
 
