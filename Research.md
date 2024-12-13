@@ -10,12 +10,15 @@ output: html_document
     display: flex; /* Use flex layout to align the buttons */
     border: 2px solid #ccc; /* Add border around the entire tabs container */
     border-radius: 5px; /* Optional rounded corners */
+    height: 50px; /* Set the height of the container */
   }
 
   /* Styling for the tab buttons */
   .tab-button {
     font-size: 18px; /* Increase the font size */
-    padding: 10px 20px; /* Add some padding to make the button bigger */
+    flex-grow: 1; /* Make the buttons take up equal space */
+    text-align: center; /* Center the text in the button */
+    padding: 10px 0; /* Adjust padding to lower the button height */
     background-color: #f0f0f0; /* Light grey background */
     border-right: 1px solid #ccc; /* Border between the buttons */
     cursor: pointer;
