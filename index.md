@@ -27,7 +27,7 @@ My ongoing work focuses on two topics:<br />
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
 <div style="display: flex; justify-content: flex-start; gap: 20px; align-items: center; flex-wrap: wrap; padding-left: 50px;">
   <a href="mailto:jsyelena@126.com" title="Mail" style="color: #808080;">
-    <i class="fas fa-envelope" style="font-size: 30px;"></i>
+    <i class="fas fa-envelope" style="font-size: 20px;"></i>
   </a>
   <a href="https://x.com/JiangSiyi1" title="Twitter" style="color: #808080;">
     <i class="fab fa-twitter" style="font-size: 30px;"></i>
