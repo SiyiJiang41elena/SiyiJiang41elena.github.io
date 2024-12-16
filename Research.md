@@ -76,7 +76,7 @@ output: html_document
 
 <!-- Articles Section -->
 <div id="articles" class="tab-content active">
-  <h3>† Corresponding author</h3>
+  <h3>(†) indicates the corresponding author</h3>
   <p><strong>First-Author:</strong></p>
   <ul>
     <li><strong>Jiang, S.</strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527">https://doi.org/10.1016/j.jml.2024.104527</a></li>
