@@ -9,7 +9,7 @@ sitemap:
        width="200" 
        alt="Siyi Jiang" 
        style="margin-left: 5px; margin-right: 20px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5);"
-    src="IMG_4681.jpg">
+    src="IMG_5870.JPG">
 </div>
 
 ## About
