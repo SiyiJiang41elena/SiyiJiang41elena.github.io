@@ -6,16 +6,19 @@ sitemap:
 ---
 <br />
 <!-- Profile picture -->
-<img class="ProfilePic" 
-     width="200" 
-     alt="Siyi Jiang" 
-     style="float: left; margin-left: 5px; margin-right: 20px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5); vertical-align: bottom;" 
-     src="IMG_4681.jpg">
 
-## About
+<div style="line-height: 1.5;">
+  <img class="ProfilePic" 
+       width="200" 
+       alt="Siyi Jiang" 
+       style="float: left; margin-left: 5px; margin-right: 20px; border-radius: 10px; background-color: rgba(255, 255, 255, 0.5); vertical-align: bottom;" 
+       src="IMG_4681.jpg">
+  ## About
 I am a lecturer (tenure-track) in the School of Foreign Studies at [Shanghai University of Finance and Economics](https://en.wikipedia.org/wiki/Shanghai_University_of_Finance_and_Economics).<br />
 I earned my PhD in Psychology (2024) from [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University), specializing in psycholinguistics. Before that, I completed my MA in Teaching Chinese to Speakers of Other Languages (2020) at [Peking University](https://en.wikipedia.org/wiki/Peking_University). I also hold a BA from [Beijing Foreign Studies University](https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University) (2016), where I double-majored in Teaching Chinese as Foreign Language and English Language and Literature.
-<br /><br /> 
+</div>
+
+
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
 <div style="display: flex; justify-content: flex-start; gap: 20px; align-items: center; flex-wrap: wrap; margin-left: 5px;">
