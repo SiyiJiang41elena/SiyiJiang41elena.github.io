@@ -3,8 +3,8 @@ title: ""
 output: html_document
 ---
 ## Research interests
-**Broad:** Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Bilingualism and emotion<br /><br /> 
-**Narrow:** 
+**Broad:** Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Bilingualism and emotion<br />
+**Narrow:**<br /> 
 A bilingual’s two languages may always be active, even when only one is required. This process might be expected to produce frequent unintended cross-language intrusions, but these errors are rare in spontaneous speech and the laboratory. Therefore, bilinguals must benefit from a control mechanism that allows them to select which language to use at a given moment and in a given context. This language control mechanism is my main research focus. My ongoing work focuses on two topics:<br />
 (1) Bilingual language control in emotional and social contexts (Jiang et al., [2024](https://doi.org/10.1016/j.jml.2024.104527))<br />
 (2) Interconnection between bilingual language control and cognitive control (Jiang et al., [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494))
