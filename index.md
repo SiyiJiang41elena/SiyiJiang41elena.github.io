@@ -13,8 +13,8 @@ sitemap:
 </div>
 
 ## About
-I am a lecturer in the School of Foreign Studies at [Shanghai University of Finance and Economics](https://en.wikipedia.org/wiki/Shanghai_University_of_Finance_and_Economics).<br />
-I earned my PhD in Psychology (2024) from [Beijing Normal University](https://en.wikipedia.org/wiki/Beijing_Normal_University), specializing in psycholinguistics. Before that, I completed my MA in Teaching Chinese to Speakers of Other Languages (2020) at [Peking University](https://en.wikipedia.org/wiki/Peking_University). I also hold a BA from [Beijing Foreign Studies University](https://en.wikipedia.org/wiki/Beijing_Foreign_Studies_University) (2016), where I double-majored in Teaching Chinese as Foreign Language and English Language and Literature.
+I am a lecturer in the School of Foreign Studies at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn).<br />
+I earned my PhD in Psychology (2024) from [Beijing Normal University](https://www.bnu.edu.cn), specializing in psycholinguistics. Before that, I completed my MA in Teaching Chinese to Speakers of Other Languages (2020) at [Peking University](https://www.pku.edu.cn). I also hold a BA from [Beijing Foreign Studies University](http://www.bfsu.edu.cn) (2016), where I double-majored in Teaching Chinese as Foreign Language and English Language & Literature.
 <br /><br />
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
