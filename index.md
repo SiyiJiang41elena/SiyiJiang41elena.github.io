@@ -35,4 +35,3 @@ I earned my PhD in Psychology (2024) from [Beijing Normal University](https://en
     <i class="fab fa-orcid" style="font-size: 20px;"></i>
   </a>
 </div>
-<br />
