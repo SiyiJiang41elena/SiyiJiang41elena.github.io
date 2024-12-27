@@ -2,7 +2,7 @@
 title: ""
 output: html_document
 ---
-# Research interests
+**Research interests** <br /> 
 **Broad:** Psycholinguistics, Neurolinguistics, Bilingualism and Cognition, Bilingualism and emotion<br />
 **Narrow:** <br /> 
 A bilingual’s two languages may always be active, even when only one is required. This process might be expected to produce frequent unintended cross-language intrusions, but these errors are rare in spontaneous speech and the laboratory. Therefore, bilinguals must benefit from a control mechanism that allows them to select which language to use at a given moment and in a given context. This **language control mechanism** is my main research focus. My ongoing work focuses on two topics:<br />
