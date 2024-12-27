@@ -13,6 +13,6 @@ sitemap:
 </div>
 
 ## About
-I am a lecturer in the [School of Foreign Studies](https://sfs.sufe.edu.cn) at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn).<br />
+I am a lecturer (2024-) in the [School of Foreign Studies](https://sfs.sufe.edu.cn) at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn).<br />
 I earned my PhD in Psychology (2024) from [Beijing Normal University](https://www.bnu.edu.cn), specializing in psycholinguistics. Before that, I completed my MA in Teaching Chinese to Speakers of Other Languages (2020) at [Peking University](https://www.pku.edu.cn). I also hold a BA from [Beijing Foreign Studies University](http://www.bfsu.edu.cn) (2016), where I double-majored in Teaching Chinese as Foreign Language & English Language and Literature.
 <br /><br />
