@@ -12,7 +12,7 @@ I am broadly interested in how language interacts with cognition and emotion. Sp
 My ongoing research focuses on:<br /> 
 (1) **Bilingual language control in emotional and social contexts** (Jiang, Meng, & Chen, [2024](https://doi.org/10.1016/j.jml.2024.104527)).<br /> 
 (2) **The interconnection between bilingual language control and cognitive control** (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)).<br /> 
-I mainly use electroencephalogram (EEG) and reaction time measures to investigate these topics.
+I mainly use electroencephalogram (EEG) and reaction time measures to investigate these topics. My work has been published in prestigious journals like <i>Journal of Memory and Language</i> and <i>Bilingualism: Language and Cognition</i>.
 
 
 
