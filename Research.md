@@ -19,8 +19,11 @@ Bilingual language control is a cognitive mechanism that allows bilinguals to se
 
 <details>
 <summary><i>What is bilingual language control?</i></summary>
+<div style="margin-top: 1em;">
+  A mechanism that enables bilinguals to manage the simultaneous activation of two languages and avoid cross-language intrusions. It also supports flexible code-switching.
+</div>
+</details>
 
-<p style="margin-top: 1em;">A mechanism that enables bilinguals to manage the simultaneous activation of two languages and avoid cross-language intrusions. It also supports flexible code-switching.</p>
 
 </details>
 
