@@ -11,18 +11,6 @@ I mainly use electroencephalogram (EEG) and reaction time measures to investigat
 For bilinguals, both languages are often active simultaneously, even when only one is required. This process could lead to frequent unintended cross-language intrusions, but such errors are rare in spontaneous speech and the laboratory. Therefore, a **bilingual language control** mechanism is proposed to allow bilinguals to select which language to use at a given moment and in a given context. This control mechanism also enables bilinguals to switch between languages during the same conversationunderlies.
 </details>
 
-### Bilingual Language Control  
-
-Bilingual language control is a cognitive mechanism that allows bilinguals to select which language to use. Click below for more details:  
-
-<details>
-<summary><i>What is bilingual language control?</i></summary>
-A mechanism that enables bilinguals to manage the simultaneous activation of two languages and avoid cross-language intrusions. It also supports flexible code-switching.
-</details>
-
-
-
-
 <style>
   /* Styling for the tabs container */
   .tabs {
