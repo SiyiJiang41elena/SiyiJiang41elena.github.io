@@ -4,7 +4,7 @@ output: html_document
 ---
 I am broadly interested in how language interacts with cognition and emotion. Specifically, my research focuses on:<br /> 
 1. **Bilingual language control in emotional and social contexts** (Jiang, Meng, & Chen, [2024](https://doi.org/10.1016/j.jml.2024.104527)).<br /> 
-2. **The interconnection between bilingual language control and cognitive control** (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)).<br /> 
+2. **The interconnection between bilingual language control and cognitive control** (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)).<br />
 I mainly use electroencephalogram (EEG) and reaction time measures to investigate these topics.<br />
 <details>
 <summary><i>What is bilingual language control?<i></summary>
