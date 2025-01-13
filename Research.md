@@ -6,10 +6,11 @@ I am broadly interested in how language interacts with cognition and emotion. Sp
 (1) **Bilingual language control in emotional and social contexts** (Jiang, Meng, & Chen, [2024](https://doi.org/10.1016/j.jml.2024.104527)).<br /> 
 (2) **The interconnection between bilingual language control and cognitive control** (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)).<br /> 
 I mainly use electroencephalogram (EEG) and reaction time measures to investigate these topics.
+
 <details>
 <summary><i>What is bilingual language control?</i></summary>
 <p>For bilinguals, both languages are often active simultaneously, even when only one is required. This process could lead to frequent unintended cross-language intrusions, but such errors are rare in spontaneous speech and the laboratory. Therefore, a bilingual language control mechanism is proposed to allow bilinguals to select which language to use at a given moment and in a given context. This control mechanism also enables bilinguals to switch between languages during the same conversation.</p>
-</details><br /> 
+</details>
 
 <style>
   /* Styling for the tabs container */
