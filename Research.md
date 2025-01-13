@@ -2,9 +2,12 @@
 title: ""
 output: html_document
 ---
-A bilingual’s two languages may always be active, even when only one is required. This process might be expected to produce frequent unintended cross-language intrusions, but these errors are rare in spontaneous speech and the laboratory. Therefore, bilinguals must benefit from a control mechanism that allows them to select which language to use at a given moment and in a given context. This **language control mechanism** is my main research interest. I mainly use electroencephalogram (**EEG**) and reaction time measures in my experiments. My ongoing work focuses on two topics:<br />
-(1) Bilingual language control in emotional and social contexts (Jiang, Meng, & Chen, [2024](https://doi.org/10.1016/j.jml.2024.104527))<br />
-(2) Interconnection between bilingual language control and cognitive control (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494))<br /><br />
+I am broadly interested in how language interacts with cognition and emotion. Specifically, I am interested in: (1) Bilingual language control in emotional and social contexts (Jiang, Meng, & Chen, [2024](https://doi.org/10.1016/j.jml.2024.104527)); (2) Interconnection between bilingual language control and cognitive control (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)). I mainly use electroencephalogram (**EEG**) and reaction time measures in my experiments.<br />
+
+What is bilingual language control?
+A bilingual’s two languages may always be active, even when only one is required. This process might be expected to produce frequent unintended cross-language intrusions, but these errors are rare in spontaneous speech and the laboratory. Therefore, a bilingual language control mechanism is proposed to allows bilinguals to select which language to use at a given moment and in a given context. This control mechanism also underlies flexible code-switching. <br /><br />
+
+
 
 <style>
   /* Styling for the tabs container */
