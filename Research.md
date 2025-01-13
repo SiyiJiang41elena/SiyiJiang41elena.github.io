@@ -2,11 +2,22 @@
 title: ""
 output: html_document
 ---
-I am broadly interested in how language interacts with cognition and emotion. Specifically, I am interested in: (1) Bilingual language control in emotional and social contexts (Jiang, Meng, & Chen, [2024](https://doi.org/10.1016/j.jml.2024.104527)); (2) Interconnection between bilingual language control and cognitive control (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)). I mainly use electroencephalogram (EEG) and reaction time measures in my experiments.<br />
+I am broadly interested in how language interacts with cognition and emotion. Specifically, my research focuses on:<br /> 
+1. **Bilingual language control in emotional and social contexts** (Jiang, Meng, & Chen, [2024](https://doi.org/10.1016/j.jml.2024.104527)).<br /> 
+2. **The interconnection between bilingual language control and cognitive control (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)).<br /> 
+I mainly use electroencephalogram (EEG) and reaction time measures to investigate these topics.<br />
 
 What is bilingual language control?
-A bilingual’s two languages may always be active, even when only one is required. This process might be expected to produce frequent unintended cross-language intrusions, but these errors are rare in spontaneous speech and the laboratory. Therefore, a bilingual language control mechanism is proposed to allows bilinguals to select which language to use at a given moment and in a given context. This control mechanism also underlies flexible code-switching. <br /><br />
+For bilinguals, both languages are often active simultaneously, even when only one is required. This process could lead to frequent unintended cross-language intrusions, but such errors are rare in spontaneous speech and the laboratory. Therefore, a **bilingual language control** mechanism is proposed to allow bilinguals to select which language to use at a given moment and in a given context. This control mechanism also enables bilinguals to switch between languages during the same conversationunderlies. <br /><br />
 
+### Bilingual Language Control  
+
+Bilingual language control is a cognitive mechanism that allows bilinguals to select which language to use. Click below for more details:  
+
+<details>
+<summary>What is bilingual language control?</summary>
+A mechanism that enables bilinguals to manage the simultaneous activation of two languages and avoid cross-language intrusions. It also supports flexible code-switching.
+</details>
 
 
 <style>
