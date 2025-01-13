@@ -18,8 +18,6 @@ I mainly use electroencephalogram (EEG) and reaction time measures to investigat
 
 
 
-</details>
-
 <style>
   /* Styling for the tabs container */
   .tabs {
