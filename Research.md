@@ -2,7 +2,7 @@
 title: ""
 output: html_document
 ---
-I am broadly interested in how language interacts with cognition and emotion. Specifically, my recent work explores the neurocognitive mechanisms underlying bilingual language control. 
+I am broadly interested in how language interacts with cognition and emotion. My recent work explores the neurocognitive mechanisms underlying bilingual language control. 
 
 <details>
 <summary><i>What is bilingual language control?</i></summary>
