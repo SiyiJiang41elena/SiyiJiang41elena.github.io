@@ -44,6 +44,72 @@ My curent research focuses on:<br />
 
 I mainly use electroencephalogram (EEG) and reaction time measures to investigate these topics. My work has been published in prestigious journals, such as <i>Journal of Memory and Language</i> and <i>Bilingualism: Language and Cognition</i>.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Research Articles</title>
+  <style>
+    /* Style for highlighted article */
+    .highlight {
+      border: 3px solid #ff0000; /* Red border to highlight */
+      padding: 10px;
+      background-color: #ffe6e6; /* Light red background */
+    }
+
+    /* Style for each article section */
+    .article-section {
+      padding: 20px;
+      margin: 20px 0;
+      border: 1px solid #ddd;
+    }
+
+    /* Smooth scroll behavior */
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+<body>
+
+  <p>My current research focuses on:</p>
+  <ul>
+    <li><a href="#article1">Bilingual language control in emotional and social contexts</a></li>
+    <li><a href="#article2">The interconnection between bilingual language control and cognitive control</a></li>
+  </ul>
+
+  <!-- Articles Section -->
+  <div id="article1" class="article-section">
+    <h2>Bilingual language control in emotional and social contexts</h2>
+    <p>This research focuses on how bilingual individuals manage language in emotional and social settings.</p>
+    <p><a href="https://doi.org/10.1016/j.jml.2024.104527">Jiang, Meng, & Chen, 2024</a></p>
+  </div>
+
+  <div id="article2" class="article-section">
+    <h2>The interconnection between bilingual language control and cognitive control</h2>
+    <p>Exploring the relationship between bilingual language control and cognitive functions such as executive function.</p>
+    <p><a href="https://doi.org/10.1017/S1366728922000323">Jiang, Ma, & Chen, 2023</a>, <a href="https://doi.org/10.1017/S1366728923000494">2024</a></p>
+  </div>
+
+  <script>
+    // Listen for clicks on article links
+    document.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', function(e) {
+        // Remove highlight from all articles
+        document.querySelectorAll('.article-section').forEach(article => {
+          article.classList.remove('highlight');
+        });
+
+        // Add highlight to the clicked article
+        const targetArticle = document.querySelector(this.getAttribute('href'));
+        targetArticle.classList.add('highlight');
+      });
+    });
+  </script>
+
+</body>
+</html>
 
 
 
