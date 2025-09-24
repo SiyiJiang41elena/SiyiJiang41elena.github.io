@@ -2,9 +2,9 @@
 title: ""
 output: html_document
 ---
-I am broadly interested in how language interacts with cognition and emotion, especially through the lens of bilingual language control. My ongoing research focuses on:<br /> 
+I am broadly interested in how language interacts with cognition and emotion, particularly through the lens of bilingual language control. My curent research focuses on:<br /> 
 (1) **Bilingual language control in emotional and social contexts** (Jiang, Meng, & Chen, [2024](https://doi.org/10.1016/j.jml.2024.104527)).<br /> 
-(2) **The interconnection between bilingual language control and cognitive control** (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)).<br /> 
+(2) **The interconnection between bilingual language control and cognitive control (also known as executive function or executive control)** (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)).<br /> 
 
 <details>
 <summary><i>What is bilingual language control?</i></summary>
