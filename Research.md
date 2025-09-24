@@ -7,7 +7,8 @@ I am broadly interested in how language interacts with cognition and emotion, pa
 (2) **The interconnection between bilingual language control and cognitive control (also known as executive function or executive control)** (Jiang, Ma, & Chen, [2023](https://doi.org/10.1017/S1366728922000323), [2024](https://doi.org/10.1017/S1366728923000494)).<br /> 
 
 I am broadly interested in how language interacts with cognition and emotion, particularly through the lens of 
-<b><abbr title="Bilingual language control refers to the cognitive processes involved in managing two languages, including switching between them and inhibiting one language while using another.">bilingual language control</abbr></b>.
+<span style="color:blue; text-decoration:underline; cursor:pointer;" onclick="alert('Bilingual language control refers to the cognitive processes involved in managing two languages, including switching between them and inhibiting one language while using another.')">bilingual language control</span>.
+
 
 
 <details>
