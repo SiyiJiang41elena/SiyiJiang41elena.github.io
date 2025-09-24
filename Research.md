@@ -37,6 +37,7 @@ I am broadly interested in how language interacts with cognition and emotion, pa
     opacity: 1;
   }
 
+  /* Highight style */
   .highlight {
     background-color: yellow;
     border: 2px solid #ff0000;
@@ -66,11 +67,11 @@ I mainly use electroencephalogram (EEG) and reaction time measures to investigat
 <div id="articles" class="tab-content active">
   (†) indicates the corresponding author
   <ul>
-    <li id="jiang2024">
-      Yang, S., <strong><span class="highlight-trigger">Jiang, S.</span></strong>†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. <i>Frontiers in Human Neuroscience, 18</i>(June), 1-13. <a href="https://doi.org/10.3389/fnhum.2024.1270377">https://doi.org/10.3389/fnhum.2024.1270377</a>
+    <li id="jiang2024a">
+      Yang, S., <strong>Jiang, S.</strong>†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. <i>Frontiers in Human Neuroscience, 18</i>(June), 1-13. <a href="https://doi.org/10.3389/fnhum.2024.1270377">https://doi.org/10.3389/fnhum.2024.1270377</a>
     </li>
     <li id="jiang2024b">
-      <strong><span class="highlight-trigger" data-target="#jiang2024b">Jiang, S.</span></strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527">https://doi.org/10.1016/j.jml.2024.104527</a>
+      <strong><span class="highlight-trigger">Jiang, S.</span></strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527">https://doi.org/10.1016/j.jml.2024.104527</a>
     </li>
     <li>
       <strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2024). The role of cognitive control in bilingual language comprehension: An event-related potential study of dense code-switching sentences. <i>Bilingualism: Language and Cognition, 27</i>(1), 137–153. <a href="https://doi.org/10.1017/S1366728923000494">https://doi.org/10.1017/S1366728923000494</a><span style="font-size: smaller;">    (Accepted with minor revision)</span>
@@ -124,15 +125,15 @@ I mainly use electroencephalogram (EEG) and reaction time measures to investigat
       });
       
       // Highlight the clicked item
-      var targetId = this.getAttribute('data-target');
-      var targetItem = document.querySelector(targetId);
+      var targetId = this.getAttribute('data-target') || this.parentElement.id;
+      var targetItem = document.getElementById(targetId);
       targetItem.classList.add('highlight');
       
       // Scroll to the highlighted item
       targetItem.scrollIntoView({ behavior: 'smooth' });
     });
   });
-  
+
   // Initialize to show the first tab by default
   document.getElementsByClassName("tab-button")[0].click();
 </script>
