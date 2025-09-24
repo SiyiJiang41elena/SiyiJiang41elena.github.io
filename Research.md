@@ -163,24 +163,6 @@ You can explore my work by selecting one of the categories below.
   </ul>
 </div>
 
-<!-- Articles Section -->
-<div id="articles" class="tab-content active">
-  (†) indicates the corresponding author
-  <ul>
-    <li>Yang, S., <strong>Jiang, S.</strong>†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. <i>Frontiers in Human Neuroscience, 18</i>(June), 1-13. 
-      <a href="https://doi.org/10.3389/fnhum.2024.1270377" style="color: black; text-decoration: none;">https://doi.org/10.3389/fnhum.2024.1270377</a></li>
-    <li><strong>Jiang, S.</strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. 
-   <a href="https://doi.org/10.1016/j.jml.2024.104527" style="color: black; text-decoration: none;">https://doi.org/10.1016/j.jml.2024.104527</a>
-</li>
-    <li><strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2024). The role of cognitive control in bilingual language comprehension: An event-related potential study of dense code-switching sentences. <i>Bilingualism: Language and Cognition, 27</i>(1), 137–153. 
-      <a href="https://doi.org/10.1017/S1366728923000494" style="color: black; text-decoration: none;">https://doi.org/10.1017/S1366728923000494</a><span style="font-size: smaller;">    (Accepted with minor revision)</span></li>
-    <li><strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2023). Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension. <i>Bilingualism: Language and Cognition, 26</i>(1), 62–77. 
-      <a href="https://doi.org/10.1017/S1366728922000323" style="color: black; text-decoration: none;">https://doi.org/10.1017/S1366728922000323</a></li>
-    <li><strong>Jiang, S.</strong>, & Lu, S.† (2021). Applications of eye movement boundary paradigm to lexical processing research. <i>Chinese Language in the World, 5</i>, 1-15. (in Chinese)<span style="font-size: smaller;">《边界范式在阅读中词汇加工机制研究中的应用》</span></li>
-    <li><strong>Jiang, S.</strong>, Lu, S.†, & Wang, S. (2020). The processing of Chinese adhesive constructions in sentence reading: Evidence from word segmentation task. <i>Journal of Chinese Language Education, 18</i>(2), 1-21. (in Chinese)<span style="font-size: smaller;">《汉语母语者与二语者粘合式结构的词切分研究》</span></li>
-     <li>Lu, Z., Lu, S.†, & <strong>Jiang, S.</strong> (2019). The typological effect of the processing of N de V. <i>Chinese Language Learning, 3</i>, 78-86. (in Chinese)<span style="font-size: smaller;">《”n的v“结构认知加工的类型学效应研究》</span></li>
-  </ul>
-</div>
 
 <!-- Books Section -->
 <div id="books" class="tab-content">
