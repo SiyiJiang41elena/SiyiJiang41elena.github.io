@@ -43,7 +43,7 @@ My current research focuses on:<br />
 (2) Dynamic interconnection between **cognitive control** (also known as executive function or executive control) and bilingual language control in comprehension (Jiang, Ma, & Chen, [2023, BLC](2023BLC.pdf); [2024, BLC](2024BLC.pdf)) and speech production.<br /> 
 
 I mainly use **electroencephalogram (EEG)** and **reaction time** measures to investigate these topics. <br /> 
-<hr>
+<br /> 
 You can explore my work by selecting one of the categories below.
 
 <style>
