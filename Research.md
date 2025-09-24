@@ -124,45 +124,44 @@ You can explore my work by selecting one of the categories below.
     <li>Yang, S., <strong>Jiang, S.</strong>†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. <i>Frontiers in Human Neuroscience, 18</i>(June), 1-13. 
       <a href="https://doi.org/10.3389/fnhum.2024.1270377" style="color: black; text-decoration: none;">https://doi.org/10.3389/fnhum.2024.1270377</a>
       <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file1.pdf" target="_blank">
-        <button style="background-color: transparent; color: black; border: 1px solid black; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px;">PDF</button>
+        <button style="background-color: transparent; color: black; border: 2px solid transparent; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); transition: box-shadow 0.3s ease;">PDF</button>
       </a>
     </li>
     <li><strong>Jiang, S.</strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. 
       <a href="https://doi.org/10.1016/j.jml.2024.104527" style="color: black; text-decoration: none;">https://doi.org/10.1016/j.jml.2024.104527</a>
       <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/b9e8be5d692ffb66bc303b56cee94cdcac02d50c/2024JML.pdf" target="_blank">
-        <button style="background-color: transparent; color: black; border: 1px solid black; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px;">PDF</button>
+        <button style="background-color: transparent; color: black; border: 2px solid transparent; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); transition: box-shadow 0.3s ease;">PDF</button>
       </a>
     </li>
     <li><strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2024). The role of cognitive control in bilingual language comprehension: An event-related potential study of dense code-switching sentences. <i>Bilingualism: Language and Cognition, 27</i>(1), 137–153. 
       <a href="https://doi.org/10.1017/S1366728923000494" style="color: black; text-decoration: none;">https://doi.org/10.1017/S1366728923000494</a><span style="font-size: smaller;"> (Accepted with minor revision)</span>
       <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file3.pdf" target="_blank">
-        <button style="background-color: transparent; color: black; border: 1px solid black; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px;">PDF</button>
+        <button style="background-color: transparent; color: black; border: 2px solid transparent; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); transition: box-shadow 0.3s ease;">PDF</button>
       </a>
     </li>
     <li><strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2023). Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension. <i>Bilingualism: Language and Cognition, 26</i>(1), 62–77. 
       <a href="https://doi.org/10.1017/S1366728922000323" style="color: black; text-decoration: none;">https://doi.org/10.1017/S1366728922000323</a>
       <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file4.pdf" target="_blank">
-        <button style="background-color: transparent; color: black; border: 1px solid black; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px;">PDF</button>
+        <button style="background-color: transparent; color: black; border: 2px solid transparent; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); transition: box-shadow 0.3s ease;">PDF</button>
       </a>
     </li>
     <li><strong>Jiang, S.</strong>, & Lu, S.† (2021). Applications of eye movement boundary paradigm to lexical processing research. <i>Chinese Language in the World, 5</i>, 1-15. (in Chinese)<span style="font-size: smaller;">《边界范式在阅读中词汇加工机制研究中的应用》</span>
       <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file5.pdf" target="_blank">
-        <button style="background-color: transparent; color: black; border: 1px solid black; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px;">PDF</button>
+        <button style="background-color: transparent; color: black; border: 2px solid transparent; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); transition: box-shadow 0.3s ease;">PDF</button>
       </a>
     </li>
     <li><strong>Jiang, S.</strong>, Lu, S.†, & Wang, S. (2020). The processing of Chinese adhesive constructions in sentence reading: Evidence from word segmentation task. <i>Journal of Chinese Language Education, 18</i>(2), 1-21. (in Chinese)<span style="font-size: smaller;">《汉语母语者与二语者粘合式结构的词切分研究》</span>
       <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file6.pdf" target="_blank">
-        <button style="background-color: transparent; color: black; border: 1px solid black; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px;">PDF</button>
+        <button style="background-color: transparent; color: black; border: 2px solid transparent; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); transition: box-shadow 0.3s ease;">PDF</button>
       </a>
     </li>
     <li>Lu, Z., Lu, S.†, & <strong>Jiang, S.</strong> (2019). The typological effect of the processing of N de V. <i>Chinese Language Learning, 3</i>, 78-86. (in Chinese)<span style="font-size: smaller;">《”n的v“结构认知加工的类型学效应研究》</span>
       <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file7.pdf" target="_blank">
-        <button style="background-color: transparent; color: black; border: 1px solid black; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px;">PDF</button>
+        <button style="background-color: transparent; color: black; border: 2px solid transparent; padding: 3px 6px; font-size: 10px; cursor: pointer; text-transform: uppercase; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); transition: box-shadow 0.3s ease;">PDF</button>
       </a>
     </li>
   </ul>
-
-
+</div>
 
 
 <!-- Books Section -->
