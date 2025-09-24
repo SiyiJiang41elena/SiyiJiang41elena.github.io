@@ -9,6 +9,7 @@ I am broadly interested in how language interacts with cognition and emotion, pa
 </span>.
 
 <style>
+  /* Tooltip Styling */
   .tooltip {
     position: relative;
     display: inline-block;
@@ -38,11 +39,11 @@ I am broadly interested in how language interacts with cognition and emotion, pa
     opacity: 1;
   }
 
-  /* Style for highlighted reference */
+  /* Highlighted Reference Style */
   .highlight {
-    border: 2px solid #ff0000; /* Red border */
+    border: 2px solid #ff0000;
     padding: 10px;
-    background-color: #ffe6e6; /* Light red background */
+    background-color: #ffe6e6;
   }
 
   /* Smooth scroll behavior */
@@ -54,25 +55,24 @@ I am broadly interested in how language interacts with cognition and emotion, pa
   .tabs {
     margin-bottom: 20px;
     display: flex; /* Use flex layout to align the buttons */
-    border-radius: 10px; /* Rounded corners for the entire container */
+    border-radius: 10px; 
     height: 40px; /* Lower the height of the container */
-    overflow: hidden; /* Hide overflow to keep the design neat */
+    overflow: hidden;
   }
 
-  /* Styling for the tab buttons */
   .tab-button {
-    font-size: 14px; /* Smaller font size */
-    flex-grow: 1; /* Make the buttons take up equal space */
-    text-align: center; /* Center the text in the button */
-    padding: 8px 0; /* Reduce padding to make the buttons shorter */
-    background-color: #ffffff; /* White background */
-    border: 1px solid #ddd; /* Subtle border */
-    border-right: none; /* Remove right border */
-    color: #333; /* Dark text color */
+    font-size: 14px;
+    flex-grow: 1;
+    text-align: center;
+    padding: 8px 0;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-right: none;
+    color: #333;
     cursor: pointer;
-    transition: all 0.3s ease; /* Smooth transition for all states */
-    text-transform: capitalize; /* Capitalize only the first letter */
-    font-weight: 500; /* Medium font weight */
+    transition: all 0.3s ease;
+    text-transform: capitalize;
+    font-weight: 500;
   }
 
   .tab-button:last-child {
@@ -80,40 +80,37 @@ I am broadly interested in how language interacts with cognition and emotion, pa
   }
 
   .tab-button:hover {
-    background-color: #f4f4f4; /* Light grey background on hover */
-    border-color: #bbb; /* Slightly darker border on hover */
-    color: #000; /* Dark text color on hover */
+    background-color: #f4f4f4;
+    border-color: #bbb;
+    color: #000;
   }
 
-  /* Active tab button (selected state) */
   .tab-button.active {
-    background-color: black; /* Black background for active tab */
-    color: white; /* White text for the active tab */
-    border-color: black; /* Black border for active tab */
-    border-width: 2px; /* Slightly thicker border to highlight active tab */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for active tab */
+    background-color: black;
+    color: white;
+    border-color: black;
+    border-width: 2px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
-  /* Content area styling */
   .tab-content {
     display: none;
   }
 
-  /* Show the active tab content */
   .tab-content.active {
     display: block;
   }
 
-  /* Placeholder content for tabs */
   .placeholder-content {
     font-style: italic;
     color: #888;
   }
 </style>
 
-My current research focuses on:<br /> 
-(1) Bilingual language control in **emotional** and **social** contexts (Jiang, Meng, & Chen, <a href="#jiang2024">2024</a>).<br /> 
-(2) The interconnection between bilingual language control and **cognitive control** (also known as executive function or executive control) (Jiang, Ma, & Chen, <a href="#jiang2023">2023</a>, <a href="#jiang2024">2024</a>).<br /> 
+<!-- Research Content -->
+My current research focuses on:<br />
+(1) Bilingual language control in **emotional** and **social** contexts (Jiang, Meng, & Chen, <a href="#jiang2024">2024</a>).<br />
+(2) The interconnection between bilingual language control and **cognitive control** (also known as executive function or executive control) (Jiang, Ma, & Chen, <a href="#jiang2023">2023</a>, <a href="#jiang2024">2024</a>).<br />
 
 I mainly use electroencephalogram (EEG) and reaction time measures to investigate these topics. My work has been published in prestigious journals, such as <i>Journal of Memory and Language</i> and <i>Bilingualism: Language and Cognition</i>.
 
@@ -134,20 +131,8 @@ I mainly use electroencephalogram (EEG) and reaction time measures to investigat
     <li id="jiang2024">
       <strong>Jiang, S.</strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527">https://doi.org/10.1016/j.jml.2024.104527</a>
     </li>
-    <li id="jiang2024a">
-      <strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2024). The role of cognitive control in bilingual language comprehension: An event-related potential study of dense code-switching sentences. <i>Bilingualism: Language and Cognition, 27</i>(1), 137–153. <a href="https://doi.org/10.1017/S1366728923000494">https://doi.org/10.1017/S1366728923000494</a><span style="font-size: smaller;">    (Accepted with minor revision)</span>
-    </li>
     <li id="jiang2023">
       <strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2023). Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension. <i>Bilingualism: Language and Cognition, 26</i>(1), 62–77. <a href="https://doi.org/10.1017/S1366728922000323">https://doi.org/10.1017/S1366728922000323</a>
-    </li>
-    <li id="jiang2021">
-      Jiang, S., & Lu, S.† (2021). Applications of eye movement boundary paradigm to lexical processing research. <i>Chinese Language in the World, 5</i>, 1-15. (in Chinese)<span style="font-size: smaller;">《边界范式在阅读中词汇加工机制研究中的应用》</span>
-    </li>
-    <li id="jiang2020">
-      Jiang, S., Lu, S.†, & Wang, S. (2020). The processing of Chinese adhesive constructions in sentence reading: Evidence from word segmentation task. <i>Journal of Chinese Language Education, 18</i>(2), 1-21. (in Chinese)<span style="font-size: smaller;">《汉语母语者与二语者粘合式结构的词切分研究》</span>
-    </li>
-    <li id="lu2019">
-      Lu, Z., Lu, S.†, & <strong>Jiang, S.</strong> (2019). The typological effect of the processing of N de V. <i>Chinese Language Learning, 3</i>, 78-86. (in Chinese)<span style="font-size: smaller;">《”n的v“结构认知加工的类型学效应研究》</span>
     </li>
   </ul>
 </div>
@@ -155,7 +140,7 @@ I mainly use electroencephalogram (EEG) and reaction time measures to investigat
 <!-- Books Section -->
 <div id="books" class="tab-content">
   <ul>
-  <li>VanPatten, B., Keating G. D., & Wulff, S. (Eds.). (2021). <i>Theories in Second Language Acquisition: An Introduction.</i> (Lu, S., & <strong>Jiang, S.</strong>, Trans.). Beijing: China Commerce and Trade Press. (Original work published 2020).</li>
+    <li>VanPatten, B., Keating G. D., & Wulff, S. (Eds.). (2021). <i>Theories in Second Language Acquisition: An Introduction.</i> (Lu, S., & <strong>Jiang, S.</strong>, Trans.). Beijing: China Commerce and Trade Press. (Original work published 2020).</li>
   </ul>
 </div>
 
