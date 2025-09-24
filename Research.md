@@ -122,7 +122,7 @@ You can explore my work by selecting one of the categories below.
   (†) indicates the corresponding author
   <ul>
     <li>Yang, S., <strong>Jiang, S.</strong>†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. <i>Frontiers in Human Neuroscience, 18</i>(June), 1-13. 
-      <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file1.pdf" target="_blank">
+      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/fnhum-18-1270377.pdf" target="_blank">
         <button class="pdf-button">PDF</button>
       </a>
     </li>
@@ -133,27 +133,27 @@ You can explore my work by selecting one of the categories below.
     </li>
     <li><strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2024). The role of cognitive control in bilingual language comprehension: An event-related potential study of dense code-switching sentences. <i>Bilingualism: Language and Cognition, 27</i>(1), 137–153. 
      <span style="font-size: smaller;"> (Accepted with minor revision)</span>
-      <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file3.pdf" target="_blank">
+      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/2024BLC.pdf" target="_blank">
         <button class="pdf-button">PDF</button>
       </a>
     </li>
     <li><strong>Jiang, S.</strong>, Ma, L., & Chen, B.† (2023). Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension. <i>Bilingualism: Language and Cognition, 26</i>(1), 62–77. 
-      <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file4.pdf" target="_blank">
+      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/2023BLC.pdf" target="_blank">
         <button class="pdf-button">PDF</button>
       </a>
     </li>
     <li><strong>Jiang, S.</strong>, & Lu, S.† (2021). Applications of eye movement boundary paradigm to lexical processing research. <i>Chinese Language in the World, 5</i>, 1-15. (in Chinese)<span style="font-size: smaller;">《边界范式在阅读中词汇加工机制研究中的应用》</span>
-      <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file5.pdf" target="_blank">
+      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/%E8%92%8B%E6%80%9D%E8%89%BA%2C%20%E9%B9%BF%E5%A3%AB%E4%B9%89%20-%202021%20-%20%E8%BE%B9%E7%95%8C%E8%8C%83%E5%BC%8F%E5%9C%A8%E9%98%85%E8%AF%BB%E4%B8%AD%E8%AF%8D%E6%B1%87%E5%8A%A0%E5%B7%A5%E6%9C%BA%E5%88%B6%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf" target="_blank">
         <button class="pdf-button">PDF</button>
       </a>
     </li>
     <li><strong>Jiang, S.</strong>, Lu, S.†, & Wang, S. (2020). The processing of Chinese adhesive constructions in sentence reading: Evidence from word segmentation task. <i>Journal of Chinese Language Education, 18</i>(2), 1-21. (in Chinese)<span style="font-size: smaller;">《汉语母语者与二语者粘合式结构的词切分研究》</span>
-      <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file6.pdf" target="_blank">
+      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/%E8%92%8B%E6%80%9D%E8%89%BA%2C%20%E9%B9%BF%E5%A3%AB%E4%B9%89%2C%20%E7%8E%8B%E4%B9%A6%E7%90%AA%20-%202020%20-%20%E6%B1%89%E8%AF%AD%E6%AF%8D%E8%AF%AD%E8%80%85%E4%B8%8E%E4%BA%8C%E8%AF%AD%E8%80%85%E7%B2%98%E5%90%88%E5%BC%8F%E7%BB%93%E6%9E%84%E7%9A%84%E8%AF%8D%E5%88%87%E5%88%86%E7%A0%94%E7%A9%B6.pdf" target="_blank">
         <button class="pdf-button">PDF</button>
       </a>
     </li>
     <li>Lu, Z., Lu, S.†, & <strong>Jiang, S.</strong> (2019). The typological effect of the processing of N de V. <i>Chinese Language Learning, 3</i>, 78-86. (in Chinese)<span style="font-size: smaller;">《”n的v“结构认知加工的类型学效应研究》</span>
-      <a href="https://raw.githubusercontent.com/your-username/your-repo/main/path/to/your/file7.pdf" target="_blank">
+      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/%E9%80%AF%E8%8A%9D%E7%92%87%2C%20%E9%B9%BF%E5%A3%AB%E4%B9%89%2C%20%E8%92%8B%E6%80%9D%E8%89%BA%20-%202019%20-%20%E2%80%9C%20n%20%E7%9A%84%20v%20%E2%80%9D%E7%BB%93%E6%9E%84%E8%AE%A4%E7%9F%A5%E5%8A%A0%E5%B7%A5%E7%9A%84%E7%B1%BB%E5%9E%8B%E5%AD%A6%E6%95%88%E5%BA%94%E7%A0%94%E7%A9%B6.pdf" target="_blank">
         <button class="pdf-button">PDF</button>
       </a>
     </li>
