@@ -152,7 +152,6 @@ I mainly use electroencephalogram (EEG) and reaction time measures to investigat
   </ul>
 </div>
 
-
 <!-- Books Section -->
 <div id="books" class="tab-content">
   <ul>
