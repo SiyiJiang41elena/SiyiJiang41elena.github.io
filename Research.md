@@ -44,37 +44,6 @@ My curent research focuses on:<br />
 
 I mainly use electroencephalogram (EEG) and reaction time measures to investigate these topics. My work has been published in prestigious journals, such as <i>Journal of Memory and Language</i> and <i>Bilingualism: Language and Cognition</i>.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Research Articles</title>
-  <style>
-    /* Style for highlighted reference */
-    .highlight {
-      border: 2px solid #ff0000; /* Red border */
-      padding: 10px;
-      background-color: #ffe6e6; /* Light red background */
-    }
-
-    /* Smooth scroll behavior */
-    html {
-      scroll-behavior: smooth;
-    }
-  </style>
-</head>
-<body>
-
-  <p>
-    My current research focuses on:
-    <br />
-    (1) Bilingual language control in <strong>emotional</strong> and <strong>social</strong> contexts (Jiang, Meng, & Chen, 
-    <a href="#jiang2024">2024</a>).
-    <br />
-    (2) The interconnection between bilingual language control and <strong>cognitive control</strong> (also known as executive function or executive control) (Jiang, Ma, & Chen, 
-    <a href="#jiang2023">2023</a>, <a href="#jiang2024">2024</a>).
-  </p>
 
   <!-- Articles Section -->
   <p>References:</p>
