@@ -42,7 +42,7 @@ My curent research focuses on:<br />
 (1) Bilingual language control in **emotional** and **social** contexts (Jiang, Meng, & Chen, [2024, JML](https://doi.org/10.1016/j.jml.2024.104527)).<br /> 
 (2) The interconnection between bilingual language control and **cognitive control** (also known as executive function or executive control) (Jiang, Ma, & Chen, [2023, BLC](https://doi.org/10.1017/S1366728922000323); [2024, BLC](https://doi.org/10.1017/S1366728923000494)).<br /> 
 
-I mainly use electroencephalogram (EEG) and reaction time measures to investigate these topics. You can xplore my work by selecting one of the categories below.
+I mainly use **electroencephalogram (EEG)** and **reaction time** measures to investigate these topics. You can xplore my work by selecting one of the categories below.
 
 <style>
   /* Styling for the tabs container */
