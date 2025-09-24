@@ -51,18 +51,11 @@ I mainly use electroencephalogram (EEG) and reaction time measures to investigat
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Research Articles</title>
   <style>
-    /* Style for highlighted article */
+    /* Style for highlighted reference */
     .highlight {
-      border: 3px solid #ff0000; /* Red border to highlight */
+      border: 2px solid #ff0000; /* Red border */
       padding: 10px;
       background-color: #ffe6e6; /* Light red background */
-    }
-
-    /* Style for each article section */
-    .article-section {
-      padding: 20px;
-      margin: 20px 0;
-      border: 1px solid #ddd;
     }
 
     /* Smooth scroll behavior */
@@ -73,43 +66,46 @@ I mainly use electroencephalogram (EEG) and reaction time measures to investigat
 </head>
 <body>
 
-  <p>My current research focuses on:</p>
-  <ul>
-    <li><a href="#article1">Bilingual language control in emotional and social contexts</a></li>
-    <li><a href="#article2">The interconnection between bilingual language control and cognitive control</a></li>
-  </ul>
+  <p>
+    My current research focuses on:
+    <br />
+    (1) Bilingual language control in <strong>emotional</strong> and <strong>social</strong> contexts (Jiang, Meng, & Chen, 
+    <a href="#jiang2024">2024</a>).
+    <br />
+    (2) The interconnection between bilingual language control and <strong>cognitive control</strong> (also known as executive function or executive control) (Jiang, Ma, & Chen, 
+    <a href="#jiang2023">2023</a>, <a href="#jiang2024">2024</a>).
+  </p>
 
   <!-- Articles Section -->
-  <div id="article1" class="article-section">
-    <h2>Bilingual language control in emotional and social contexts</h2>
-    <p>This research focuses on how bilingual individuals manage language in emotional and social settings.</p>
-    <p><a href="https://doi.org/10.1016/j.jml.2024.104527">Jiang, Meng, & Chen, 2024</a></p>
-  </div>
-
-  <div id="article2" class="article-section">
-    <h2>The interconnection between bilingual language control and cognitive control</h2>
-    <p>Exploring the relationship between bilingual language control and cognitive functions such as executive function.</p>
-    <p><a href="https://doi.org/10.1017/S1366728922000323">Jiang, Ma, & Chen, 2023</a>, <a href="https://doi.org/10.1017/S1366728923000494">2024</a></p>
-  </div>
+  <p>References:</p>
+  <ul>
+    <li id="jiang2024">
+      Jiang, S., Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. Journal of Memory and Language, 137(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527" target="_blank">https://doi.org/10.1016/j.jml.2024.104527</a>
+    </li>
+    <li id="jiang2023">
+      Jiang, S., Ma, Y., & Chen, B. (2023). Title of another article. Journal of Example Studies, 12(4), 56-78. <a href="https://doi.org/10.1017/S1366728922000323" target="_blank">https://doi.org/10.1017/S1366728922000323</a>
+    </li>
+  </ul>
 
   <script>
-    // Listen for clicks on article links
+    // Add event listener to handle the citation click and highlight the corresponding reference
     document.querySelectorAll('a').forEach(link => {
       link.addEventListener('click', function(e) {
-        // Remove highlight from all articles
-        document.querySelectorAll('.article-section').forEach(article => {
-          article.classList.remove('highlight');
+        // Remove highlight from all references
+        document.querySelectorAll('li').forEach(reference => {
+          reference.classList.remove('highlight');
         });
 
-        // Add highlight to the clicked article
-        const targetArticle = document.querySelector(this.getAttribute('href'));
-        targetArticle.classList.add('highlight');
+        // Add highlight to the clicked reference
+        const targetReference = document.querySelector(this.getAttribute('href'));
+        targetReference.classList.add('highlight');
       });
     });
   </script>
 
 </body>
 </html>
+
 
 
 
