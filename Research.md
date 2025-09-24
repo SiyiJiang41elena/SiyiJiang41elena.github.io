@@ -124,7 +124,7 @@ You can explore my work by selecting one of the categories below.
     <li>Yang, S., <strong>Jiang, S.</strong>†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. <i>Frontiers in Human Neuroscience, 18</i>(June), 1-13. <a href="https://doi.org/10.3389/fnhum.2024.1270377">https://doi.org/10.3389/fnhum.2024.1270377</a></li>
     <li><strong>Jiang, S.</strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527">https://doi.org/10.1016/j.jml.2024.104527</a></li>
     <li><strong>Jiang, S.</strong>, Meng, Y., & Chen, B.† (2024). The impact of emotional states on bilingual language control in cued and voluntary switching contexts. <i>Journal of Memory and Language, 137</i>(19), 104527. <a href="https://doi.org/10.1016/j.jml.2024.104527">https://doi.org/10.1016/j.jml.2024.104527</a> 
-   <a href="2024JML.pdf">
+   <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/933d85b38ca256d7538195bacf2b3a9a1b1ce7f5/2024JML.pdf">
       <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer; text-align: center;">PDF</button>
    </a>
 </li>
