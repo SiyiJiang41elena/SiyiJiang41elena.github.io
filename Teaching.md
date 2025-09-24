@@ -6,14 +6,13 @@ title: "Teaching"
 <div class="tabs">
   <button class="tab-button active" onclick="showTab('home')">Home</button>
   <button class="tab-button" onclick="showTab('research')">Research</button>
-  <button class="tab-button" onclick="showTab('teaching')">Teaching</button>
+  <button class="tab-button active" onclick="showTab('teaching')">Teaching</button>
   <button class="tab-button" onclick="showTab('projects')">Projects</button>
 </div>
 
 <!-- Teaching Section -->
 <div id="teaching" class="tab-content active">
   <h2>Teaching Experience</h2>
-
   <p><strong>Instructor, College English, Shanghai University of Finance and Economics</strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Feb 2025 - Jun 2025</strong></p>
 
@@ -25,6 +24,22 @@ title: "Teaching"
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Jul 2016 - Aug 2016</strong></p>
 </div>
 
+<!-- Add the content for 'home', 'research', and 'projects' sections -->
+<div id="home" class="tab-content">
+  <h2>Home Content</h2>
+  <p>This is the content for the Home tab.</p>
+</div>
+
+<div id="research" class="tab-content">
+  <h2>Research Content</h2>
+  <p>This is the content for the Research tab.</p>
+</div>
+
+<div id="projects" class="tab-content">
+  <h2>Projects Content</h2>
+  <p>This is the content for the Projects tab.</p>
+</div>
+
 <script>
   // JavaScript for switching between tabs
   function showTab(tabName) {
@@ -32,17 +47,27 @@ title: "Teaching"
     tabContents = document.getElementsByClassName("tab-content");
     tabButtons = document.getElementsByClassName("tab-button");
 
+    // Hide all content by default
     for (i = 0; i < tabContents.length; i++) {
       tabContents[i].classList.remove("active");
     }
 
+    // Remove active class from all buttons
     for (i = 0; i < tabButtons.length; i++) {
       tabButtons[i].classList.remove("active");
     }
 
+    // Show the selected tab content
     document.getElementById(tabName).classList.add("active");
+
+    // Add active class to the clicked button
     event.currentTarget.classList.add("active");
   }
+
+  // Set default tab to Home
+  window.onload = function() {
+    document.querySelector('.tab-button.active').click();
+  };
 </script>
 
 <style>
@@ -96,4 +121,3 @@ title: "Teaching"
     display: block;
   }
 </style>
-
