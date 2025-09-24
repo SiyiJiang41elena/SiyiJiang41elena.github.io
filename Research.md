@@ -163,6 +163,23 @@ You can explore my work by selecting one of the categories below.
   </ul>
 </div>
 
+/* 全局 PDF 按钮样式 */
+.pdf-button {
+  background-color: transparent;
+  color: black;
+  border: 1px solid black;
+  padding: 3px 6px;
+  font-size: 10px;
+  cursor: pointer;
+  text-transform: uppercase;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.3s ease;
+}
+
+.pdf-button:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* 鼠标悬停时增强阴影效果 */
+}
 
 
 <!-- Books Section -->
