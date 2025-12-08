@@ -1,4 +1,4 @@
----
+<img width="432" height="57" alt="image" src="https://github.com/user-attachments/assets/4c26fe53-57a9-4b01-9bde-87bd94981475" />---
 title: ""
 output: html_document
 ---
@@ -174,7 +174,9 @@ You can explore my work by selecting one of the categories below.
 
 <!-- Projects Section -->
 <div id="projects" class="tab-content">
-  <p class="placeholder-content">Coming soon.</p>
+  <ul>
+  <li>Mutual Influence between Bilingual Context Switching and Cognitive Control (“双语者语境切换与认知控制的双向影响研究”) | 2025 Youth Project of Shanghai Planning Office of Philosophy and Social Science（2025年度上海市哲学社会科学规划青年课题） - RMB 60,000.</li>
+  </ul>
 </div>
 
 <script>
