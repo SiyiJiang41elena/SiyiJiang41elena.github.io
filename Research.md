@@ -170,9 +170,7 @@ Below you can explore a selection of my work.
 <!-- Projects Section -->
 <div id="projects" class="tab-content">
   <ul>
-  <li><strong>2025 Youth Project of Shanghai Planning Office of Philosophy and Social Science</strong>（2025年度上海市哲学社会科学规划青年课题）, <strong>PI</strong><br /> 
-    <i>Research on Mutual Influence between Bilingual Context Switching and Cognitive Control</i> (“双语者语境切换与认知控制的双向影响研究”)<br />  
-    RMB 60,000.</li>
+  <li><strong>2025 Youth Project of Shanghai Planning Office of Philosophy and Social Science</strong>（2025年度上海市哲学社会科学规划青年课题）, <strong>PI</strong>, <i>Research on Mutual Influence between Bilingual Context Switching and Cognitive Control</i> (“双语者语境切换与认知控制的双向影响研究”), RMB 60,000. <span style="font-size: smaller;">《汉语母语者与二语者粘合式结构的词切分研究》</span></li>
   </ul>
 </div>
 
