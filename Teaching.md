@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 **Instructor, College English, Shanghai University of Finance and Economics**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Spring & Fall Semesters, 2025–Present**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Spring & Fall Semesters, 2025 - Present**<br>
 
 **Before 2024**<br>
 **Teaching Assistant, Advanced Chinese Writing, Peking University**<br>
