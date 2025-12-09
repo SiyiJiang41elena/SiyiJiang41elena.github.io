@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-**Instructor, College English, Shanghai University of Finance and Economics, 2025-** <br>
+**Instructor, College English, Shanghai University of Finance and Economics, 2025 -** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Feb - Jun**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sep - Dec**
 
