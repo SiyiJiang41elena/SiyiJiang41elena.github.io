@@ -2,10 +2,9 @@
 layout: page
 title: ""
 ---
-**Instructor, College English, Shanghai University of Finance and Economics, 2025 -** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Feb - Jun**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sep - Dec**
+**Instructor, College English, Shanghai University of Finance and Economics, 2025 until now** <br>
 
+**Before 2024**
 **Teaching Assistant, Advanced Chinese Writing, Peking University**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sep 2018 - Jan 2019**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instructor: Haiyan Li<br>
