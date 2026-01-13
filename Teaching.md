@@ -2,7 +2,10 @@
 layout: page
 title: ""
 ---
-**Instructor, College English, Shanghai University of Finance and Economics**<br>
+**Instructor, Psycholinguistics (Master's level), Shanghai University of Finance and Economics**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Spring Semester, 2026**<br>
+
+**Instructor, College English for Undergraduate, Shanghai University of Finance and Economics**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Spring & Fall Semesters, 2025 - Present**<br>
 
 **Before 2024**<br>
