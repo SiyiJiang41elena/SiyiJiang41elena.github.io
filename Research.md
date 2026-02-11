@@ -172,11 +172,10 @@ Below you can explore a selection of my work.
   <ul>
   <li>2025 - Present, <strong>Youth Project of Shanghai Planning Office of Philosophy and Social Science</strong>（2025年度上海市哲学社会科学规划青年课题）<br /> 
     <i>Research on Mutual Influence between Bilingual Context Switching and Cognitive Control</i> (“双语者语境切换与认知控制的双向影响研究”)<br /> 
-    RMB 60,000
   </li>
      <li>2024 - Present, <strong>Fundamental Research Funds for the Central Universities</strong>（基本科研业务费项目-新进教师科研启动经费）<br /> 
     <i>The Neurocognitive Mechanisms Underlying the Influence of Emotional States on Bilingual Adaptive Control</i> (“情绪状态影响双语适应性控制的认知神经机制”)<br /> 
-    RMB 90,000</li>
+  </li>
   </ul>
 </div>
 
