@@ -2,11 +2,14 @@
 layout: page
 title: ""
 ---
+Instructor, Language Acquisition and Psychology, Shanghai University of Finance and Economics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall Semester, 2026<br>
+
 Instructor, Psycholinguistics (Master's level), Shanghai University of Finance and Economics<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring Semester, 2026<br>
 
 Instructor, College English, Shanghai University of Finance and Economics<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring & Fall Semesters, 2025 - Present<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring & Fall Semesters, 2025; Spring Semester, 2026<br>
 
 Before 2024<br>
 Teaching Assistant, Advanced Chinese Writing, Peking University<br>
