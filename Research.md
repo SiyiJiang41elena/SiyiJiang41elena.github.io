@@ -44,7 +44,7 @@ My current research focuses on:<br />
 
 I mainly use **electroencephalogram (EEG)** and **reaction time** measures to investigate these topics. <br /> 
 <br /> 
-Below you can explore a selection of my work.
+Below you can explore a selection of my work. A full list of publications is available on my Google Scholar profile.
 
 <style>
   /* Styling for the tabs container */
