@@ -122,7 +122,7 @@ Below you can explore a selection of my work. A full list of publications is ava
   (†) indicates the corresponding author
   <ul>
      <li><strong>Jiang, S.</strong>, Zhang, X., & Chen, B.† (published online Apr 2026). Adaptive compensatory mechanism in the regulation of language switching performance under negative emotional states: An ERP study. <i>Bilingualism: Language and Cognition</i>. 
-      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf" target="_blank">
+      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/bbd124b3ecff1853fd0bc6164a2de7a4195b7984/adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf" target="_blank">
         <button class="pdf-button">PDF</button>
       </a>
     </li>
