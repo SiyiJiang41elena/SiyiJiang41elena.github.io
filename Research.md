@@ -39,7 +39,7 @@ I am broadly interested in how language interacts with cognition and emotion, pa
 </style>
 
 My current research focuses on:<br /> 
-(1) Influence of **emotional states** on bilingual language control and its underlying mechanisms (Jiang, Meng, & Chen, [2024, JML](2024JML.pdf);Jiang, Zhang, & Chen, [2026, BLC](adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf)).<br /> 
+(1) Influence of **emotional states** on bilingual language control and its underlying mechanisms (Jiang, Meng, & Chen, [2024, JML](2024JML.pdf); Jiang, Zhang, & Chen, [2026, BLC](adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf)).<br /> 
 (2) Dynamic interconnection between **cognitive control** (also known as executive function or executive control) and bilingual language control (Jiang, Ma, & Chen, [2023, BLC](2023BLC.pdf); [2024, BLC](2024BLC.pdf)).<br /> 
 
 I mainly use **electroencephalogram (EEG)** and **reaction time** measures to investigate these topics. <br /> 
