@@ -39,8 +39,8 @@ I am broadly interested in how language interacts with cognition and emotion, pa
 </style>
 
 My current research focuses on:<br /> 
-(1) Influence of **emotional states** on bilingual language control and its underlying mechanisms (Jiang, Meng, & Chen, [2024, JML](2024JML.pdf);Jiang, Zhang, & Chen, [2026, BLC](adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf).<br /> 
-(2) Dynamic interconnection between **cognitive control** (also known as executive function or executive control) and bilingual language control in comprehension (Jiang, Ma, & Chen, [2023, BLC](2023BLC.pdf); [2024, BLC](2024BLC.pdf)) and speech production.<br /> 
+(1) Influence of **emotional states** on bilingual language control and its underlying mechanisms (Jiang, Meng, & Chen, [2024, JML](2024JML.pdf);Jiang, Zhang, & Chen, [2026, BLC](adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf)).<br /> 
+(2) Dynamic interconnection between **cognitive control** (also known as executive function or executive control) and bilingual language control (Jiang, Ma, & Chen, [2023, BLC](2023BLC.pdf); [2024, BLC](2024BLC.pdf)).<br /> 
 
 I mainly use **electroencephalogram (EEG)** and **reaction time** measures to investigate these topics. <br /> 
 <br /> 
@@ -121,6 +121,11 @@ Below you can explore a selection of my work.
 <div id="articles" class="tab-content active">
   (†) indicates the corresponding author
   <ul>
+     <li><strong>Jiang, S.</strong>, Zhang, X., & Chen, B.† (published online Apr 2026). Adaptive compensatory mechanism in the regulation of language switching performance under negative emotional states: An ERP study. <i>Bilingualism: Language and Cognition</i>. 
+      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf" target="_blank">
+        <button class="pdf-button">PDF</button>
+      </a>
+    </li>
     <li>Yang, S., <strong>Jiang, S.</strong>†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. <i>Frontiers in Human Neuroscience, 18</i>(June), 1-13. 
       <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/fnhum-18-1270377.pdf" target="_blank">
         <button class="pdf-button">PDF</button>
