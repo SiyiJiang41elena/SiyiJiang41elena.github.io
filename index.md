@@ -14,14 +14,13 @@ sitemap:
          src="IMG_4681.jpg">
   </div>
   
-  <!-- 右侧：访客位置地图（自动记录点击并显示） -->
+  <!-- 右侧：你专属的 Flag Counter 访客计数器 -->
   <div style="flex: 0 0 auto; margin-bottom: 20px;">
-    <a href="https://info.flagcounter.com/8M7t">
-      <img src="https://s11.flagcounter.com/map/8M7t/size_m/date_1/ext_png/mp_1/ct_1/fc_ffffff/ff_000000/0/" 
+    <a href="http://s01.flagcounter.com/more/5l">
+      <img src="https://s01.flagcounter.com/count2/5l/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
            alt="Flag Counter" 
-           border="0" 
-           width="300"
-           style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+           border="0"
+           style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.08);">
     </a>
   </div>
 </div>
