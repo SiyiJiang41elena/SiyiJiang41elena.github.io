@@ -12,6 +12,8 @@ Instructor, College English, Shanghai University of Finance and Economics<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring Semester, 2026<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring & Fall Semesters, 2025<br>
 
+<hr>
+
 Before 2024<br>
 Teaching Assistant, Advanced Chinese Writing, Peking University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep 2018 - Jan 2019<br>
