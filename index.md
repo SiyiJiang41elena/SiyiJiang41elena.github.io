@@ -5,7 +5,6 @@ sitemap:
   exclude: 'no'
 ---
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <!-- 左侧：头像 -->
   <div style="flex: 0 0 auto; margin-right: 20px; margin-bottom: 20px;">
     <img class="ProfilePic" 
          width="200" 
@@ -14,11 +13,10 @@ sitemap:
          src="IMG_4681.jpg">
   </div>
   
-  <!-- 右侧：你专属的 Flag Counter 访客点击地图（点亮红点模式） -->
   <div style="flex: 0 0 auto; margin-bottom: 20px;">
-    <a href="http://s01.flagcounter.com/more/5l">
-      <img src="https://s01.flagcounter.com/map/5l/size_m/date_1/ext_png/mp_1/ct_1/fc_ffffff/ff_000000/0/" 
-           alt="Flag Counter" 
+    <a href="https://info.flagcounter.com/5l">
+      <img src="https://s01.flagcounter.com/map/5l/size_m/date_1/ext_png/mp_1/ct_1/fc_ffffff/ff_000000/0/white.png" 
+           alt="Free counters!" 
            border="0"
            width="320"
            style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.08);">
@@ -26,7 +24,7 @@ sitemap:
   </div>
 </div>
 
----
+<br />
 
 ## About
 I am a lecturer in the [School of Foreign Studies](https://sfs.sufe.edu.cn) at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn).<br />
