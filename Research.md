@@ -36,7 +36,7 @@ I am broadly interested in how bilingualism interacts with cognition and emotion
   }
 </style>
 
-(1) Influence of **emotional states** on <span class="tooltip">bilingual language control<span class="tooltiptext">For bilinguals, both languages are often active simultaneously, even when only one is required. This process could lead to frequent unintended cross-language intrusions, but such errors are rare in spontaneous speech and the laboratory. Therefore, a bilingual language control mechanism is proposed to allow bilinguals to select which language to use at a given moment and in a given context. This control mechanism also enables bilinguals to switch flexibly between languages during the same conversation.</span></span> (Jiang, Meng, & Chen, [2024, JML](2024JML.pdf); Jiang, Zhang, & Chen, [2026, BLC](adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf)).<br /> 
+(1) Influence of **emotion** on <span class="tooltip">bilingual language control<span class="tooltiptext">For bilinguals, both languages are often active simultaneously, even when only one is required. This process could lead to frequent unintended cross-language intrusions, but such errors are rare in spontaneous speech and the laboratory. Therefore, a bilingual language control mechanism is proposed to allow bilinguals to select which language to use at a given moment and in a given context. This control mechanism also enables bilinguals to switch flexibly between languages during the same conversation.</span></span> (Jiang, Meng, & Chen, [2024, JML](2024JML.pdf); Jiang, Zhang, & Chen, [2026, BLC](adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf)).<br /> 
 (2) Dynamic interconnection between bilingual language control and domain-general **cognitive control** (Jiang, Ma, & Chen, [2023, BLC](2023BLC.pdf); [2024, BLC](2024BLC.pdf)).<br /> 
 (3) Influence of bilingualism on **emotion regulation**.<br /> 
 
@@ -121,11 +121,6 @@ Below you can explore a selection of my work. A full list of publications is ava
   <ul>
      <li><strong>Jiang, S.</strong>, Zhang, X., & Chen, B.† (published online Apr 2026). Adaptive compensatory mechanism in the regulation of language switching performance under negative emotional states: An ERP study. <i>Bilingualism: Language and Cognition</i>. 
       <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/bbd124b3ecff1853fd0bc6164a2de7a4195b7984/adaptive-compensatory-mechanism-in-the-regulation-of-language-switching-performance-under-negative-emotional-states-an-erp-study.pdf" target="_blank">
-        <button class="pdf-button">PDF</button>
-      </a>
-    </li>
-    <li>Yang, S., <strong>Jiang, S.</strong>†, Jiang, M.†, & Guo, Q. (2024). Lexical pathway from L2 to L1 activation in intermediate proficient bilinguals: behavioral and ERP evidence. <i>Frontiers in Human Neuroscience, 18</i>(June), 1-13. 
-      <a href="https://github.com/SiyiJiang41elena/SiyiJiang41elena.github.io/blob/cac2d8bfde0070c5026d5d6caa5c36bd989e7e97/fnhum-18-1270377.pdf" target="_blank">
         <button class="pdf-button">PDF</button>
       </a>
     </li>
